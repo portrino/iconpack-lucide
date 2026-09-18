@@ -1,0 +1,39 @@
+iconpack:
+  # This title appears in the dropdown menu in the backend:
+  title: "Iconpack Lucide"
+  # The key of the iconpack ...choose this value wisely!
+  key: "luc"
+  version: "1.4.7"
+
+  renderTypes:
+    _default:
+      # CSS prefix for all icons:
+      prefix: "luc-"
+      # Attributes to be used by default:
+      attributes:
+        class: "luc"
+
+    webfont:
+      # CSS file that is used for web fonts:
+      css: "EXT:iconpack_lucide/Resources/Public/Vendor/lucide-1.4.7/css/lucide.min.css"
+
+    svg:
+      # Source folder of the SVG files, which are rendered as <img> tag:
+      source: "EXT:iconpack_lucide/Resources/Public/Vendor/lucide-1.4.7/svgs/"
+
+    svgSprite:
+      # Source file which contains all the icons as SVG sprite:
+      source: "EXT:iconpack_lucide/Resources/Public/Vendor/lucide-1.4.7/sprites/lucide.svg"
+      attributes:
+        fill: "none"
+        stroke: "currentColor"
+
+    svgInline:
+      # Source folder of the SVG files that are rendered as <svg> tag (inline SVG):
+      source: "EXT:iconpack_lucide/Resources/Public/Vendor/lucide-1.4.7/svgs/"
+      attributes:
+        fill: "none"
+        stroke: "currentColor"
+
+  # File containing a set of icons provided by this iconpack:
+  icons: "EXT:iconpack_lucide/Resources/Public/Vendor/lucide-1.4.7/metadata/icons.yml"

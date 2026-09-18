@@ -1,0 +1,3695 @@
+$a-arrow-down: "\\f000";
+$a-arrow-up: "\\f001";
+$a-large-small: "\\f002";
+$accessibility: "\\f003";
+$activity: "\\f004";
+$ad: "\\f005";
+$air-vent: "\\f006";
+$airplay: "\\f007";
+$alarm-clock: "\\f008";
+$alarm-clock-check: "\\f009";
+$alarm-clock-minus: "\\f00a";
+$alarm-clock-off: "\\f00b";
+$alarm-clock-plus: "\\f00c";
+$alarm-smoke: "\\f00d";
+$align-center-horizontal: "\\f00e";
+$align-center-vertical: "\\f00f";
+$align-end-horizontal: "\\f010";
+$align-end-vertical: "\\f011";
+$align-horizontal-distribute-center: "\\f012";
+$align-horizontal-distribute-end: "\\f013";
+$align-horizontal-distribute-start: "\\f014";
+$align-horizontal-justify-center: "\\f015";
+$align-horizontal-justify-end: "\\f016";
+$align-horizontal-justify-start: "\\f017";
+$align-horizontal-space-around: "\\f018";
+$align-horizontal-space-between: "\\f019";
+$align-start-horizontal: "\\f01a";
+$align-start-vertical: "\\f01b";
+$align-vertical-distribute-center: "\\f01c";
+$align-vertical-distribute-end: "\\f01d";
+$align-vertical-distribute-start: "\\f01e";
+$align-vertical-justify-center: "\\f01f";
+$align-vertical-justify-end: "\\f020";
+$align-vertical-justify-start: "\\f021";
+$align-vertical-space-around: "\\f022";
+$align-vertical-space-between: "\\f023";
+$ambulance: "\\f024";
+$ampersand: "\\f025";
+$ampersands: "\\f026";
+$amphora: "\\f027";
+$anchor: "\\f028";
+$angle: "\\f029";
+$antenna: "\\f02a";
+$anvil: "\\f02b";
+$aperture: "\\f02c";
+$app-window: "\\f02d";
+$app-window-mac: "\\f02e";
+$apple: "\\f02f";
+$archive: "\\f030";
+$archive-restore: "\\f031";
+$archive-x: "\\f032";
+$armchair: "\\f033";
+$arrow-big-down: "\\f034";
+$arrow-big-down-dash: "\\f035";
+$arrow-big-left: "\\f036";
+$arrow-big-left-dash: "\\f037";
+$arrow-big-right: "\\f038";
+$arrow-big-right-dash: "\\f039";
+$arrow-big-up: "\\f03a";
+$arrow-big-up-dash: "\\f03b";
+$arrow-down: "\\f03c";
+$arrow-down-0-1: "\\f03d";
+$arrow-down-1-0: "\\f03e";
+$arrow-down-a-z: "\\f03f";
+$arrow-down-from-line: "\\f040";
+$arrow-down-left: "\\f041";
+$arrow-down-narrow-wide: "\\f042";
+$arrow-down-right: "\\f043";
+$arrow-down-to-dot: "\\f044";
+$arrow-down-to-line: "\\f045";
+$arrow-down-up: "\\f046";
+$arrow-down-wide-narrow: "\\f047";
+$arrow-down-z-a: "\\f048";
+$arrow-left: "\\f049";
+$arrow-left-from-line: "\\f04a";
+$arrow-left-right: "\\f04b";
+$arrow-left-to-line: "\\f04c";
+$arrow-right: "\\f04d";
+$arrow-right-from-line: "\\f04e";
+$arrow-right-left: "\\f04f";
+$arrow-right-to-line: "\\f050";
+$arrow-up: "\\f051";
+$arrow-up-0-1: "\\f052";
+$arrow-up-1-0: "\\f053";
+$arrow-up-a-z: "\\f054";
+$arrow-up-down: "\\f055";
+$arrow-up-from-dot: "\\f056";
+$arrow-up-from-line: "\\f057";
+$arrow-up-left: "\\f058";
+$arrow-up-narrow-wide: "\\f059";
+$arrow-up-right: "\\f05a";
+$arrow-up-to-line: "\\f05b";
+$arrow-up-wide-narrow: "\\f05c";
+$arrow-up-z-a: "\\f05d";
+$arrows-up-from-line: "\\f05e";
+$asterisk: "\\f05f";
+$astroid: "\\f060";
+$at-sign: "\\f061";
+$atom: "\\f062";
+$audio-lines: "\\f063";
+$audio-lines-off: "\\f064";
+$audio-lines-x: "\\f065";
+$audio-waveform: "\\f066";
+$award: "\\f067";
+$axe: "\\f068";
+$axis-3d: "\\f069";
+$baby: "\\f06a";
+$backpack: "\\f06b";
+$badge: "\\f06c";
+$badge-alert: "\\f06d";
+$badge-cent: "\\f06e";
+$badge-check: "\\f06f";
+$badge-dollar-sign: "\\f070";
+$badge-euro: "\\f071";
+$badge-indian-rupee: "\\f072";
+$badge-info: "\\f073";
+$badge-japanese-yen: "\\f074";
+$badge-minus: "\\f075";
+$badge-percent: "\\f076";
+$badge-plus: "\\f077";
+$badge-pound-sterling: "\\f078";
+$badge-question-mark: "\\f079";
+$badge-russian-ruble: "\\f07a";
+$badge-swiss-franc: "\\f07b";
+$badge-turkish-lira: "\\f07c";
+$badge-x: "\\f07d";
+$baggage-claim: "\\f07e";
+$balloon: "\\f07f";
+$ban: "\\f080";
+$banana: "\\f081";
+$bandage: "\\f082";
+$banknote: "\\f083";
+$banknote-arrow-down: "\\f084";
+$banknote-arrow-up: "\\f085";
+$banknote-check: "\\f086";
+$banknote-x: "\\f087";
+$barcode: "\\f088";
+$barrel: "\\f089";
+$baseline: "\\f08a";
+$bath: "\\f08b";
+$battery: "\\f08c";
+$battery-charging: "\\f08d";
+$battery-full: "\\f08e";
+$battery-low: "\\f08f";
+$battery-medium: "\\f090";
+$battery-plus: "\\f091";
+$battery-warning: "\\f092";
+$beaker: "\\f093";
+$bean: "\\f094";
+$bean-off: "\\f095";
+$bed: "\\f096";
+$bed-double: "\\f097";
+$bed-single: "\\f098";
+$beef: "\\f099";
+$beef-off: "\\f09a";
+$beer: "\\f09b";
+$beer-off: "\\f09c";
+$bell: "\\f09d";
+$bell-check: "\\f09e";
+$bell-dot: "\\f09f";
+$bell-electric: "\\f0a0";
+$bell-minus: "\\f0a1";
+$bell-off: "\\f0a2";
+$bell-plus: "\\f0a3";
+$bell-ring: "\\f0a4";
+$between-horizontal-end: "\\f0a5";
+$between-horizontal-start: "\\f0a6";
+$between-vertical-end: "\\f0a7";
+$between-vertical-start: "\\f0a8";
+$biceps-flexed: "\\f0a9";
+$bike: "\\f0aa";
+$binary: "\\f0ab";
+$binoculars: "\\f0ac";
+$biohazard: "\\f0ad";
+$bird: "\\f0ae";
+$birdhouse: "\\f0af";
+$bitcoin: "\\f0b0";
+$blend: "\\f0b1";
+$blender: "\\f0b2";
+$blinds: "\\f0b3";
+$blocks: "\\f0b4";
+$bluetooth: "\\f0b5";
+$bluetooth-connected: "\\f0b6";
+$bluetooth-off: "\\f0b7";
+$bluetooth-searching: "\\f0b8";
+$bold: "\\f0b9";
+$bolt: "\\f0ba";
+$bomb: "\\f0bb";
+$bone: "\\f0bc";
+$bone-fracture: "\\f0bd";
+$book: "\\f0be";
+$book-a: "\\f0bf";
+$book-alert: "\\f0c0";
+$book-audio: "\\f0c1";
+$book-bookmark: "\\f0c2";
+$book-check: "\\f0c3";
+$book-copy: "\\f0c4";
+$book-dashed: "\\f0c5";
+$book-down: "\\f0c6";
+$book-headphones: "\\f0c7";
+$book-heart: "\\f0c8";
+$book-image: "\\f0c9";
+$book-key: "\\f0ca";
+$book-lock: "\\f0cb";
+$book-minus: "\\f0cc";
+$book-open: "\\f0cd";
+$book-open-check: "\\f0ce";
+$book-open-text: "\\f0cf";
+$book-plus: "\\f0d0";
+$book-search: "\\f0d1";
+$book-text: "\\f0d2";
+$book-type: "\\f0d3";
+$book-up: "\\f0d4";
+$book-up-2: "\\f0d5";
+$book-user: "\\f0d6";
+$book-x: "\\f0d7";
+$bookmark: "\\f0d8";
+$bookmark-check: "\\f0d9";
+$bookmark-minus: "\\f0da";
+$bookmark-off: "\\f0db";
+$bookmark-plus: "\\f0dc";
+$bookmark-x: "\\f0dd";
+$boom-box: "\\f0de";
+$bot: "\\f0df";
+$bot-message-square: "\\f0e0";
+$bot-off: "\\f0e1";
+$bottle-wine: "\\f0e2";
+$bow-arrow: "\\f0e3";
+$box: "\\f0e4";
+$boxes: "\\f0e5";
+$braces: "\\f0e6";
+$brackets: "\\f0e7";
+$brain: "\\f0e8";
+$brain-circuit: "\\f0e9";
+$brain-cog: "\\f0ea";
+$brick-wall: "\\f0eb";
+$brick-wall-fire: "\\f0ec";
+$brick-wall-shield: "\\f0ed";
+$bridge: "\\f0ee";
+$briefcase: "\\f0ef";
+$briefcase-business: "\\f0f0";
+$briefcase-conveyor-belt: "\\f0f1";
+$briefcase-medical: "\\f0f2";
+$bring-to-front: "\\f0f3";
+$broccoli: "\\f0f4";
+$broom: "\\f0f5";
+$broom-sparkles: "\\f0f6";
+$brush: "\\f0f7";
+$brush-cleaning: "\\f0f8";
+$bubbles: "\\f0f9";
+$bug: "\\f0fa";
+$bug-off: "\\f0fb";
+$bug-play: "\\f0fc";
+$building: "\\f0fd";
+$building-complex: "\\f0fe";
+$building-complex-plus: "\\f0ff";
+$bus: "\\f100";
+$bus-front: "\\f101";
+$cable: "\\f102";
+$cable-car: "\\f103";
+$cake: "\\f104";
+$cake-slice: "\\f105";
+$calculator: "\\f106";
+$calendar: "\\f107";
+$calendar-1: "\\f108";
+$calendar-arrow-down: "\\f109";
+$calendar-arrow-up: "\\f10a";
+$calendar-check: "\\f10b";
+$calendar-check-2: "\\f10c";
+$calendar-chevrons-right: "\\f10d";
+$calendar-clock: "\\f10e";
+$calendar-cog: "\\f10f";
+$calendar-days: "\\f110";
+$calendar-fold: "\\f111";
+$calendar-heart: "\\f112";
+$calendar-minus: "\\f113";
+$calendar-minus-2: "\\f114";
+$calendar-off: "\\f115";
+$calendar-plus: "\\f116";
+$calendar-plus-2: "\\f117";
+$calendar-range: "\\f118";
+$calendar-search: "\\f119";
+$calendar-sync: "\\f11a";
+$calendar-x: "\\f11b";
+$calendar-x-2: "\\f11c";
+$calendars: "\\f11d";
+$camera: "\\f11e";
+$camera-off: "\\f11f";
+$can: "\\f120";
+$can-soda: "\\f121";
+$candy: "\\f122";
+$candy-cane: "\\f123";
+$candy-off: "\\f124";
+$cannabis: "\\f125";
+$cannabis-off: "\\f126";
+$captions: "\\f127";
+$captions-off: "\\f128";
+$car: "\\f129";
+$car-battery: "\\f12a";
+$car-front: "\\f12b";
+$car-taxi-front: "\\f12c";
+$caravan: "\\f12d";
+$card-sim: "\\f12e";
+$carrot: "\\f12f";
+$carton: "\\f130";
+$carton-off: "\\f131";
+$case-lower: "\\f132";
+$case-sensitive: "\\f133";
+$case-upper: "\\f134";
+$cassette-tape: "\\f135";
+$cast: "\\f136";
+$castle: "\\f137";
+$cat: "\\f138";
+$cctv: "\\f139";
+$cctv-off: "\\f13a";
+$chart-area: "\\f13b";
+$chart-bar: "\\f13c";
+$chart-bar-big: "\\f13d";
+$chart-bar-decreasing: "\\f13e";
+$chart-bar-increasing: "\\f13f";
+$chart-bar-stacked: "\\f140";
+$chart-candlestick: "\\f141";
+$chart-column: "\\f142";
+$chart-column-big: "\\f143";
+$chart-column-decreasing: "\\f144";
+$chart-column-increasing: "\\f145";
+$chart-column-stacked: "\\f146";
+$chart-gantt: "\\f147";
+$chart-line: "\\f148";
+$chart-network: "\\f149";
+$chart-no-axes-column: "\\f14a";
+$chart-no-axes-column-decreasing: "\\f14b";
+$chart-no-axes-column-increasing: "\\f14c";
+$chart-no-axes-combined: "\\f14d";
+$chart-no-axes-gantt: "\\f14e";
+$chart-pie: "\\f14f";
+$chart-scatter: "\\f150";
+$chart-spline: "\\f151";
+$check: "\\f152";
+$check-check: "\\f153";
+$check-line: "\\f154";
+$chef-hat: "\\f155";
+$cherry: "\\f156";
+$chess-bishop: "\\f157";
+$chess-king: "\\f158";
+$chess-knight: "\\f159";
+$chess-pawn: "\\f15a";
+$chess-queen: "\\f15b";
+$chess-rook: "\\f15c";
+$chevron-down: "\\f15d";
+$chevron-first: "\\f15e";
+$chevron-last: "\\f15f";
+$chevron-left: "\\f160";
+$chevron-right: "\\f161";
+$chevron-up: "\\f162";
+$chevrons-down: "\\f163";
+$chevrons-down-up: "\\f164";
+$chevrons-left: "\\f165";
+$chevrons-left-right: "\\f166";
+$chevrons-left-right-ellipsis: "\\f167";
+$chevrons-right: "\\f168";
+$chevrons-right-left: "\\f169";
+$chevrons-up: "\\f16a";
+$chevrons-up-down: "\\f16b";
+$church: "\\f16c";
+$cigarette: "\\f16d";
+$cigarette-off: "\\f16e";
+$circle: "\\f16f";
+$circle-alert: "\\f170";
+$circle-arrow-down: "\\f171";
+$circle-arrow-left: "\\f172";
+$circle-arrow-out-down-left: "\\f173";
+$circle-arrow-out-down-right: "\\f174";
+$circle-arrow-out-up-left: "\\f175";
+$circle-arrow-out-up-right: "\\f176";
+$circle-arrow-right: "\\f177";
+$circle-arrow-up: "\\f178";
+$circle-check: "\\f179";
+$circle-check-big: "\\f17a";
+$circle-chevron-down: "\\f17b";
+$circle-chevron-left: "\\f17c";
+$circle-chevron-right: "\\f17d";
+$circle-chevron-up: "\\f17e";
+$circle-dashed: "\\f17f";
+$circle-dashed-check: "\\f180";
+$circle-divide: "\\f181";
+$circle-dollar-sign: "\\f182";
+$circle-dot: "\\f183";
+$circle-dot-dashed: "\\f184";
+$circle-ellipsis: "\\f185";
+$circle-equal: "\\f186";
+$circle-euro: "\\f187";
+$circle-fading-arrow-up: "\\f188";
+$circle-fading-plus: "\\f189";
+$circle-gauge: "\\f18a";
+$circle-minus: "\\f18b";
+$circle-off: "\\f18c";
+$circle-parking: "\\f18d";
+$circle-parking-off: "\\f18e";
+$circle-pause: "\\f18f";
+$circle-percent: "\\f190";
+$circle-pile: "\\f191";
+$circle-play: "\\f192";
+$circle-plus: "\\f193";
+$circle-pound-sterling: "\\f194";
+$circle-power: "\\f195";
+$circle-question-mark: "\\f196";
+$circle-slash: "\\f197";
+$circle-slash-2: "\\f198";
+$circle-small: "\\f199";
+$circle-star: "\\f19a";
+$circle-stop: "\\f19b";
+$circle-user: "\\f19c";
+$circle-user-round: "\\f19d";
+$circle-x: "\\f19e";
+$circuit-board: "\\f19f";
+$citrus: "\\f1a0";
+$clapperboard: "\\f1a1";
+$clef-alto: "\\f1a2";
+$clef-bass: "\\f1a3";
+$clef-treble: "\\f1a4";
+$clipboard: "\\f1a5";
+$clipboard-check: "\\f1a6";
+$clipboard-clock: "\\f1a7";
+$clipboard-copy: "\\f1a8";
+$clipboard-list: "\\f1a9";
+$clipboard-minus: "\\f1aa";
+$clipboard-paste: "\\f1ab";
+$clipboard-pen: "\\f1ac";
+$clipboard-pen-line: "\\f1ad";
+$clipboard-plus: "\\f1ae";
+$clipboard-type: "\\f1af";
+$clipboard-x: "\\f1b0";
+$clock: "\\f1b1";
+$clock-1: "\\f1b2";
+$clock-10: "\\f1b3";
+$clock-11: "\\f1b4";
+$clock-12: "\\f1b5";
+$clock-2: "\\f1b6";
+$clock-3: "\\f1b7";
+$clock-4: "\\f1b8";
+$clock-5: "\\f1b9";
+$clock-6: "\\f1ba";
+$clock-7: "\\f1bb";
+$clock-8: "\\f1bc";
+$clock-9: "\\f1bd";
+$clock-alert: "\\f1be";
+$clock-arrow-down: "\\f1bf";
+$clock-arrow-left: "\\f1c0";
+$clock-arrow-right: "\\f1c1";
+$clock-arrow-up: "\\f1c2";
+$clock-check: "\\f1c3";
+$clock-fading: "\\f1c4";
+$clock-plus: "\\f1c5";
+$closed-caption: "\\f1c6";
+$cloud: "\\f1c7";
+$cloud-alert: "\\f1c8";
+$cloud-backup: "\\f1c9";
+$cloud-check: "\\f1ca";
+$cloud-cog: "\\f1cb";
+$cloud-download: "\\f1cc";
+$cloud-drizzle: "\\f1cd";
+$cloud-fog: "\\f1ce";
+$cloud-hail: "\\f1cf";
+$cloud-lightning: "\\f1d0";
+$cloud-moon: "\\f1d1";
+$cloud-moon-rain: "\\f1d2";
+$cloud-off: "\\f1d3";
+$cloud-rain: "\\f1d4";
+$cloud-rain-wind: "\\f1d5";
+$cloud-snow: "\\f1d6";
+$cloud-sun: "\\f1d7";
+$cloud-sun-rain: "\\f1d8";
+$cloud-sync: "\\f1d9";
+$cloud-upload: "\\f1da";
+$cloudy: "\\f1db";
+$clover: "\\f1dc";
+$club: "\\f1dd";
+$code: "\\f1de";
+$code-xml: "\\f1df";
+$coffee: "\\f1e0";
+$cog: "\\f1e1";
+$coins: "\\f1e2";
+$columns-2: "\\f1e3";
+$columns-3: "\\f1e4";
+$columns-3-cog: "\\f1e5";
+$columns-4: "\\f1e6";
+$combine: "\\f1e7";
+$command: "\\f1e8";
+$compass: "\\f1e9";
+$component: "\\f1ea";
+$computer: "\\f1eb";
+$concierge-bell: "\\f1ec";
+$cone: "\\f1ed";
+$construction: "\\f1ee";
+$contact: "\\f1ef";
+$contact-round: "\\f1f0";
+$container: "\\f1f1";
+$contrast: "\\f1f2";
+$cookie: "\\f1f3";
+$cooking-pot: "\\f1f4";
+$copy: "\\f1f5";
+$copy-check: "\\f1f6";
+$copy-minus: "\\f1f7";
+$copy-plus: "\\f1f8";
+$copy-slash: "\\f1f9";
+$copy-x: "\\f1fa";
+$copyleft: "\\f1fb";
+$copyright: "\\f1fc";
+$corner-down-left: "\\f1fd";
+$corner-down-right: "\\f1fe";
+$corner-left-down: "\\f1ff";
+$corner-left-up: "\\f200";
+$corner-right-down: "\\f201";
+$corner-right-up: "\\f202";
+$corner-up-left: "\\f203";
+$corner-up-right: "\\f204";
+$cpu: "\\f205";
+$creative-commons: "\\f206";
+$credit-card: "\\f207";
+$credit-card-check: "\\f208";
+$credit-card-minus: "\\f209";
+$credit-card-plus: "\\f20a";
+$credit-card-reader: "\\f20b";
+$credit-card-x: "\\f20c";
+$croissant: "\\f20d";
+$crop: "\\f20e";
+$cross: "\\f20f";
+$crosshair: "\\f210";
+$crown: "\\f211";
+$cuboid: "\\f212";
+$cup-soda: "\\f213";
+$cupcake: "\\f214";
+$currency: "\\f215";
+$cylinder: "\\f216";
+$dam: "\\f217";
+$database: "\\f218";
+$database-arrow-down: "\\f219";
+$database-arrow-up: "\\f21a";
+$database-backup: "\\f21b";
+$database-check: "\\f21c";
+$database-minus: "\\f21d";
+$database-plus: "\\f21e";
+$database-search: "\\f21f";
+$database-x: "\\f220";
+$database-zap: "\\f221";
+$decimals-arrow-left: "\\f222";
+$decimals-arrow-right: "\\f223";
+$delete: "\\f224";
+$dessert: "\\f225";
+$diameter: "\\f226";
+$diamond: "\\f227";
+$diamond-minus: "\\f228";
+$diamond-percent: "\\f229";
+$diamond-plus: "\\f22a";
+$dice-1: "\\f22b";
+$dice-2: "\\f22c";
+$dice-3: "\\f22d";
+$dice-4: "\\f22e";
+$dice-5: "\\f22f";
+$dice-6: "\\f230";
+$dices: "\\f231";
+$diff: "\\f232";
+$disc: "\\f233";
+$disc-2: "\\f234";
+$disc-3: "\\f235";
+$disc-album: "\\f236";
+$divide: "\\f237";
+$dna: "\\f238";
+$dna-off: "\\f239";
+$dock: "\\f23a";
+$dog: "\\f23b";
+$dollar-sign: "\\f23c";
+$dome: "\\f23d";
+$donut: "\\f23e";
+$door-closed: "\\f23f";
+$door-closed-locked: "\\f240";
+$door-closed-package: "\\f241";
+$door-open: "\\f242";
+$door-stairwell: "\\f243";
+$dot: "\\f244";
+$download: "\\f245";
+$drafting-compass: "\\f246";
+$drama: "\\f247";
+$drill: "\\f248";
+$drone: "\\f249";
+$droplet: "\\f24a";
+$droplet-off: "\\f24b";
+$droplets: "\\f24c";
+$drum: "\\f24d";
+$drumstick: "\\f24e";
+$dumbbell: "\\f24f";
+$ear: "\\f250";
+$ear-off: "\\f251";
+$earth: "\\f252";
+$earth-lock: "\\f253";
+$eclipse: "\\f254";
+$egg: "\\f255";
+$egg-fried: "\\f256";
+$egg-off: "\\f257";
+$eject: "\\f258";
+$ellipse: "\\f259";
+$ellipsis: "\\f25a";
+$ellipsis-vertical: "\\f25b";
+$engine: "\\f25c";
+$equal: "\\f25d";
+$equal-approximately: "\\f25e";
+$equal-approximately-not: "\\f25f";
+$equal-not: "\\f260";
+$eraser: "\\f261";
+$ethernet-port: "\\f262";
+$euro: "\\f263";
+$ev-charger: "\\f264";
+$expand: "\\f265";
+$external-link: "\\f266";
+$eye: "\\f267";
+$eye-closed: "\\f268";
+$eye-dashed: "\\f269";
+$eye-off: "\\f26a";
+$face-angry: "\\f26b";
+$face-expressionless: "\\f26c";
+$face-grinning: "\\f26d";
+$face-neutral: "\\f26e";
+$face-slightly-frowning: "\\f26f";
+$face-slightly-smiling: "\\f270";
+$face-slightly-smiling-plus: "\\f271";
+$factory: "\\f272";
+$fan: "\\f273";
+$fast-forward: "\\f274";
+$faucet: "\\f275";
+$feather: "\\f276";
+$fence: "\\f277";
+$ferris-wheel: "\\f278";
+$file: "\\f279";
+$file-archive: "\\f27a";
+$file-axis-3d: "\\f27b";
+$file-badge: "\\f27c";
+$file-box: "\\f27d";
+$file-braces: "\\f27e";
+$file-braces-corner: "\\f27f";
+$file-chart-column: "\\f280";
+$file-chart-column-increasing: "\\f281";
+$file-chart-line: "\\f282";
+$file-chart-pie: "\\f283";
+$file-check: "\\f284";
+$file-check-corner: "\\f285";
+$file-clock: "\\f286";
+$file-code: "\\f287";
+$file-code-corner: "\\f288";
+$file-cog: "\\f289";
+$file-diff: "\\f28a";
+$file-digit: "\\f28b";
+$file-down: "\\f28c";
+$file-exclamation-point: "\\f28d";
+$file-headphone: "\\f28e";
+$file-heart: "\\f28f";
+$file-image: "\\f290";
+$file-input: "\\f291";
+$file-key: "\\f292";
+$file-lock: "\\f293";
+$file-minus: "\\f294";
+$file-minus-corner: "\\f295";
+$file-music: "\\f296";
+$file-output: "\\f297";
+$file-pen: "\\f298";
+$file-pen-line: "\\f299";
+$file-play: "\\f29a";
+$file-plus: "\\f29b";
+$file-plus-corner: "\\f29c";
+$file-question-mark: "\\f29d";
+$file-scan: "\\f29e";
+$file-search: "\\f29f";
+$file-search-corner: "\\f2a0";
+$file-signal: "\\f2a1";
+$file-sliders: "\\f2a2";
+$file-spreadsheet: "\\f2a3";
+$file-stack: "\\f2a4";
+$file-symlink: "\\f2a5";
+$file-terminal: "\\f2a6";
+$file-text: "\\f2a7";
+$file-type: "\\f2a8";
+$file-type-corner: "\\f2a9";
+$file-up: "\\f2aa";
+$file-user: "\\f2ab";
+$file-video-camera: "\\f2ac";
+$file-volume: "\\f2ad";
+$file-x: "\\f2ae";
+$file-x-corner: "\\f2af";
+$files: "\\f2b0";
+$film: "\\f2b1";
+$fingerprint-pattern: "\\f2b2";
+$fire-extinguisher: "\\f2b3";
+$fish: "\\f2b4";
+$fish-off: "\\f2b5";
+$fish-symbol: "\\f2b6";
+$fishing-hook: "\\f2b7";
+$fishing-rod: "\\f2b8";
+$flag: "\\f2b9";
+$flag-off: "\\f2ba";
+$flag-triangle-left: "\\f2bb";
+$flag-triangle-right: "\\f2bc";
+$flame: "\\f2bd";
+$flame-kindling: "\\f2be";
+$flashlight: "\\f2bf";
+$flashlight-off: "\\f2c0";
+$flask-conical: "\\f2c1";
+$flask-conical-off: "\\f2c2";
+$flask-round: "\\f2c3";
+$flower: "\\f2c4";
+$flower-2: "\\f2c5";
+$focus: "\\f2c6";
+$fold-horizontal: "\\f2c7";
+$fold-vertical: "\\f2c8";
+$folder: "\\f2c9";
+$folder-archive: "\\f2ca";
+$folder-bookmark: "\\f2cb";
+$folder-check: "\\f2cc";
+$folder-clock: "\\f2cd";
+$folder-closed: "\\f2ce";
+$folder-code: "\\f2cf";
+$folder-cog: "\\f2d0";
+$folder-dot: "\\f2d1";
+$folder-down: "\\f2d2";
+$folder-git: "\\f2d3";
+$folder-git-2: "\\f2d4";
+$folder-heart: "\\f2d5";
+$folder-input: "\\f2d6";
+$folder-kanban: "\\f2d7";
+$folder-key: "\\f2d8";
+$folder-lock: "\\f2d9";
+$folder-minus: "\\f2da";
+$folder-open: "\\f2db";
+$folder-open-dot: "\\f2dc";
+$folder-output: "\\f2dd";
+$folder-pen: "\\f2de";
+$folder-plus: "\\f2df";
+$folder-root: "\\f2e0";
+$folder-search: "\\f2e1";
+$folder-search-2: "\\f2e2";
+$folder-symlink: "\\f2e3";
+$folder-sync: "\\f2e4";
+$folder-tree: "\\f2e5";
+$folder-up: "\\f2e6";
+$folder-x: "\\f2e7";
+$folders: "\\f2e8";
+$footprints: "\\f2e9";
+$forklift: "\\f2ea";
+$form: "\\f2eb";
+$forward: "\\f2ec";
+$frame: "\\f2ed";
+$fuel: "\\f2ee";
+$fullscreen: "\\f2ef";
+$funnel: "\\f2f0";
+$funnel-plus: "\\f2f1";
+$funnel-x: "\\f2f2";
+$galaxy: "\\f2f3";
+$gallery-horizontal: "\\f2f4";
+$gallery-horizontal-end: "\\f2f5";
+$gallery-thumbnails: "\\f2f6";
+$gallery-vertical: "\\f2f7";
+$gallery-vertical-end: "\\f2f8";
+$gamepad: "\\f2f9";
+$gamepad-2: "\\f2fa";
+$gamepad-directional: "\\f2fb";
+$gap-horizontal: "\\f2fc";
+$gap-vertical: "\\f2fd";
+$gauge: "\\f2fe";
+$gavel: "\\f2ff";
+$gem: "\\f300";
+$georgian-lari: "\\f301";
+$germ: "\\f302";
+$germ-off: "\\f303";
+$ghost: "\\f304";
+$gift: "\\f305";
+$git-branch: "\\f306";
+$git-branch-minus: "\\f307";
+$git-branch-plus: "\\f308";
+$git-commit-horizontal: "\\f309";
+$git-commit-vertical: "\\f30a";
+$git-compare: "\\f30b";
+$git-compare-arrows: "\\f30c";
+$git-fork: "\\f30d";
+$git-graph: "\\f30e";
+$git-merge: "\\f30f";
+$git-merge-conflict: "\\f310";
+$git-pull-request: "\\f311";
+$git-pull-request-arrow: "\\f312";
+$git-pull-request-closed: "\\f313";
+$git-pull-request-create: "\\f314";
+$git-pull-request-create-arrow: "\\f315";
+$git-pull-request-draft: "\\f316";
+$glass-water: "\\f317";
+$glasses: "\\f318";
+$globe: "\\f319";
+$globe-check: "\\f31a";
+$globe-code: "\\f31b";
+$globe-lock: "\\f31c";
+$globe-off: "\\f31d";
+$globe-x: "\\f31e";
+$goal: "\\f31f";
+$gpu: "\\f320";
+$graduation-cap: "\\f321";
+$grape: "\\f322";
+$grid-2x2: "\\f323";
+$grid-2x2-check: "\\f324";
+$grid-2x2-plus: "\\f325";
+$grid-2x2-x: "\\f326";
+$grid-3x2: "\\f327";
+$grid-3x3: "\\f328";
+$grip: "\\f329";
+$grip-horizontal: "\\f32a";
+$grip-vertical: "\\f32b";
+$group: "\\f32c";
+$guitar: "\\f32d";
+$ham: "\\f32e";
+$hamburger: "\\f32f";
+$hammer: "\\f330";
+$hand: "\\f331";
+$hand-coins: "\\f332";
+$hand-fist: "\\f333";
+$hand-grab: "\\f334";
+$hand-heart: "\\f335";
+$hand-helping: "\\f336";
+$hand-metal: "\\f337";
+$hand-platter: "\\f338";
+$handbag: "\\f339";
+$handshake: "\\f33a";
+$hard-drive: "\\f33b";
+$hard-drive-download: "\\f33c";
+$hard-drive-upload: "\\f33d";
+$hard-hat: "\\f33e";
+$hash: "\\f33f";
+$hat-glasses: "\\f340";
+$haze: "\\f341";
+$hd: "\\f342";
+$hdmi-port: "\\f343";
+$heading: "\\f344";
+$heading-1: "\\f345";
+$heading-2: "\\f346";
+$heading-3: "\\f347";
+$heading-4: "\\f348";
+$heading-5: "\\f349";
+$heading-6: "\\f34a";
+$headphone-off: "\\f34b";
+$headphones: "\\f34c";
+$headset: "\\f34d";
+$heart: "\\f34e";
+$heart-crack: "\\f34f";
+$heart-handshake: "\\f350";
+$heart-minus: "\\f351";
+$heart-off: "\\f352";
+$heart-plus: "\\f353";
+$heart-pulse: "\\f354";
+$heart-x: "\\f355";
+$heater: "\\f356";
+$helicopter: "\\f357";
+$hexagon: "\\f358";
+$highlighter: "\\f359";
+$hop: "\\f35a";
+$hop-off: "\\f35b";
+$hospital: "\\f35c";
+$hotel: "\\f35d";
+$hourglass: "\\f35e";
+$hourglass-cog: "\\f35f";
+$house: "\\f360";
+$house-heart: "\\f361";
+$house-plug: "\\f362";
+$house-plus: "\\f363";
+$house-wifi: "\\f364";
+$houses: "\\f365";
+$ice-cream-bowl: "\\f366";
+$ice-cream-cone: "\\f367";
+$id-card: "\\f368";
+$id-card-lanyard: "\\f369";
+$image: "\\f36a";
+$image-down: "\\f36b";
+$image-minus: "\\f36c";
+$image-off: "\\f36d";
+$image-play: "\\f36e";
+$image-plus: "\\f36f";
+$image-up: "\\f370";
+$image-upscale: "\\f371";
+$images: "\\f372";
+$import: "\\f373";
+$inbox: "\\f374";
+$indian-rupee: "\\f375";
+$infinity: "\\f376";
+$info: "\\f377";
+$inspection-panel: "\\f378";
+$italic: "\\f379";
+$iteration-ccw: "\\f37a";
+$iteration-cw: "\\f37b";
+$iv-bag: "\\f37c";
+$japanese-yen: "\\f37d";
+$joystick: "\\f37e";
+$kanban: "\\f37f";
+$kayak: "\\f380";
+$key: "\\f381";
+$key-round: "\\f382";
+$key-square: "\\f383";
+$keyboard: "\\f384";
+$keyboard-music: "\\f385";
+$keyboard-off: "\\f386";
+$lambda: "\\f387";
+$lamp: "\\f388";
+$lamp-ceiling: "\\f389";
+$lamp-desk: "\\f38a";
+$lamp-floor: "\\f38b";
+$lamp-wall-down: "\\f38c";
+$lamp-wall-up: "\\f38d";
+$land-plot: "\\f38e";
+$landmark: "\\f38f";
+$languages: "\\f390";
+$laptop: "\\f391";
+$laptop-minimal: "\\f392";
+$laptop-minimal-check: "\\f393";
+$lasso: "\\f394";
+$lasso-select: "\\f395";
+$layer-arrow-down: "\\f396";
+$layer-arrow-up: "\\f397";
+$layers: "\\f398";
+$layers-2: "\\f399";
+$layers-arrow-down: "\\f39a";
+$layers-arrow-up: "\\f39b";
+$layers-minus: "\\f39c";
+$layers-plus: "\\f39d";
+$layout-arrow-down: "\\f39e";
+$layout-arrow-right: "\\f39f";
+$layout-dashboard: "\\f3a0";
+$layout-freeform: "\\f3a1";
+$layout-grid: "\\f3a2";
+$layout-list: "\\f3a3";
+$layout-panel-left: "\\f3a4";
+$layout-panel-top: "\\f3a5";
+$layout-template: "\\f3a6";
+$leaf: "\\f3a7";
+$leafy-green: "\\f3a8";
+$lectern: "\\f3a9";
+$lens-concave: "\\f3aa";
+$lens-convex: "\\f3ab";
+$library: "\\f3ac";
+$library-big: "\\f3ad";
+$life-buoy: "\\f3ae";
+$ligature: "\\f3af";
+$lightbulb: "\\f3b0";
+$lightbulb-off: "\\f3b1";
+$lighthouse: "\\f3b2";
+$line-dot-right-horizontal: "\\f3b3";
+$line-squiggle: "\\f3b4";
+$line-style: "\\f3b5";
+$link: "\\f3b6";
+$link-2: "\\f3b7";
+$link-2-off: "\\f3b8";
+$list: "\\f3b9";
+$list-check: "\\f3ba";
+$list-checks: "\\f3bb";
+$list-chevrons-down-up: "\\f3bc";
+$list-chevrons-up-down: "\\f3bd";
+$list-clock: "\\f3be";
+$list-collapse: "\\f3bf";
+$list-end: "\\f3c0";
+$list-filter: "\\f3c1";
+$list-filter-plus: "\\f3c2";
+$list-indent-decrease: "\\f3c3";
+$list-indent-increase: "\\f3c4";
+$list-minus: "\\f3c5";
+$list-music: "\\f3c6";
+$list-ordered: "\\f3c7";
+$list-plus: "\\f3c8";
+$list-restart: "\\f3c9";
+$list-sort-ascending: "\\f3ca";
+$list-sort-descending: "\\f3cb";
+$list-start: "\\f3cc";
+$list-todo: "\\f3cd";
+$list-tree: "\\f3ce";
+$list-video: "\\f3cf";
+$list-x: "\\f3d0";
+$loader: "\\f3d1";
+$loader-circle: "\\f3d2";
+$loader-pinwheel: "\\f3d3";
+$locate: "\\f3d4";
+$locate-fixed: "\\f3d5";
+$locate-off: "\\f3d6";
+$lock: "\\f3d7";
+$lock-keyhole: "\\f3d8";
+$lock-keyhole-open: "\\f3d9";
+$lock-open: "\\f3da";
+$log-in: "\\f3db";
+$log-out: "\\f3dc";
+$logs: "\\f3dd";
+$lollipop: "\\f3de";
+$luggage: "\\f3df";
+$magnet: "\\f3e0";
+$mail: "\\f3e1";
+$mail-badge: "\\f3e2";
+$mail-check: "\\f3e3";
+$mail-clock: "\\f3e4";
+$mail-minus: "\\f3e5";
+$mail-open: "\\f3e6";
+$mail-pen: "\\f3e7";
+$mail-plus: "\\f3e8";
+$mail-question-mark: "\\f3e9";
+$mail-search: "\\f3ea";
+$mail-warning: "\\f3eb";
+$mail-x: "\\f3ec";
+$mailbox: "\\f3ed";
+$mails: "\\f3ee";
+$map-minus: "\\f3ef";
+$map-pin: "\\f3f0";
+$map-pin-check: "\\f3f1";
+$map-pin-check-inside: "\\f3f2";
+$map-pin-house: "\\f3f3";
+$map-pin-minus: "\\f3f4";
+$map-pin-minus-inside: "\\f3f5";
+$map-pin-off: "\\f3f6";
+$map-pin-pen: "\\f3f7";
+$map-pin-plus: "\\f3f8";
+$map-pin-plus-inside: "\\f3f9";
+$map-pin-search: "\\f3fa";
+$map-pin-x: "\\f3fb";
+$map-pin-x-inside: "\\f3fc";
+$map-pinned: "\\f3fd";
+$map-plus: "\\f3fe";
+$mars: "\\f3ff";
+$mars-stroke: "\\f400";
+$martini: "\\f401";
+$maximize: "\\f402";
+$maximize-2: "\\f403";
+$medal: "\\f404";
+$megaphone: "\\f405";
+$megaphone-off: "\\f406";
+$memory-stick: "\\f407";
+$menu: "\\f408";
+$merge: "\\f409";
+$message-circle: "\\f40a";
+$message-circle-check: "\\f40b";
+$message-circle-code: "\\f40c";
+$message-circle-dashed: "\\f40d";
+$message-circle-dashed-check: "\\f40e";
+$message-circle-heart: "\\f40f";
+$message-circle-more: "\\f410";
+$message-circle-off: "\\f411";
+$message-circle-plus: "\\f412";
+$message-circle-question-mark: "\\f413";
+$message-circle-reply: "\\f414";
+$message-circle-warning: "\\f415";
+$message-circle-x: "\\f416";
+$message-square: "\\f417";
+$message-square-check: "\\f418";
+$message-square-code: "\\f419";
+$message-square-dashed: "\\f41a";
+$message-square-diff: "\\f41b";
+$message-square-dot: "\\f41c";
+$message-square-heart: "\\f41d";
+$message-square-lock: "\\f41e";
+$message-square-more: "\\f41f";
+$message-square-off: "\\f420";
+$message-square-plus: "\\f421";
+$message-square-quote: "\\f422";
+$message-square-reply: "\\f423";
+$message-square-share: "\\f424";
+$message-square-text: "\\f425";
+$message-square-warning: "\\f426";
+$message-square-x: "\\f427";
+$messages-circle: "\\f428";
+$messages-square: "\\f429";
+$metronome: "\\f42a";
+$mic: "\\f42b";
+$mic-audio-lines: "\\f42c";
+$mic-off: "\\f42d";
+$mic-signal: "\\f42e";
+$mic-vocal: "\\f42f";
+$microchip: "\\f430";
+$microscope: "\\f431";
+$microwave: "\\f432";
+$midi-port: "\\f433";
+$milestone: "\\f434";
+$milk: "\\f435";
+$milk-off: "\\f436";
+$minimize: "\\f437";
+$minimize-2: "\\f438";
+$minus: "\\f439";
+$mirror-rectangular: "\\f43a";
+$mirror-round: "\\f43b";
+$monitor: "\\f43c";
+$monitor-check: "\\f43d";
+$monitor-cloud: "\\f43e";
+$monitor-cog: "\\f43f";
+$monitor-dot: "\\f440";
+$monitor-down: "\\f441";
+$monitor-off: "\\f442";
+$monitor-pause: "\\f443";
+$monitor-pc: "\\f444";
+$monitor-play: "\\f445";
+$monitor-smartphone: "\\f446";
+$monitor-speaker: "\\f447";
+$monitor-stop: "\\f448";
+$monitor-up: "\\f449";
+$monitor-x: "\\f44a";
+$moon: "\\f44b";
+$moon-star: "\\f44c";
+$mop: "\\f44d";
+$mop-sparkles: "\\f44e";
+$mosque: "\\f44f";
+$motorbike: "\\f450";
+$mountain: "\\f451";
+$mountain-snow: "\\f452";
+$mouse: "\\f453";
+$mouse-left: "\\f454";
+$mouse-off: "\\f455";
+$mouse-pointer: "\\f456";
+$mouse-pointer-2: "\\f457";
+$mouse-pointer-2-off: "\\f458";
+$mouse-pointer-ban: "\\f459";
+$mouse-pointer-click: "\\f45a";
+$mouse-right: "\\f45b";
+$mouth: "\\f45c";
+$mouth-off: "\\f45d";
+$move: "\\f45e";
+$move-3d: "\\f45f";
+$move-diagonal: "\\f460";
+$move-diagonal-2: "\\f461";
+$move-down: "\\f462";
+$move-down-left: "\\f463";
+$move-down-right: "\\f464";
+$move-horizontal: "\\f465";
+$move-left: "\\f466";
+$move-right: "\\f467";
+$move-up: "\\f468";
+$move-up-left: "\\f469";
+$move-up-right: "\\f46a";
+$move-vertical: "\\f46b";
+$music: "\\f46c";
+$music-2: "\\f46d";
+$music-3: "\\f46e";
+$music-4: "\\f46f";
+$navigation: "\\f470";
+$navigation-2: "\\f471";
+$navigation-2-off: "\\f472";
+$navigation-off: "\\f473";
+$nepali-rupee: "\\f474";
+$network: "\\f475";
+$newspaper: "\\f476";
+$nfc: "\\f477";
+$non-binary: "\\f478";
+$notebook: "\\f479";
+$notebook-dot: "\\f47a";
+$notebook-pen: "\\f47b";
+$notebook-tabs: "\\f47c";
+$notebook-text: "\\f47d";
+$notepad-text: "\\f47e";
+$notepad-text-dashed: "\\f47f";
+$nut: "\\f480";
+$nut-off: "\\f481";
+$octagon: "\\f482";
+$octagon-alert: "\\f483";
+$octagon-minus: "\\f484";
+$octagon-pause: "\\f485";
+$octagon-x: "\\f486";
+$omega: "\\f487";
+$option: "\\f488";
+$orbit: "\\f489";
+$origami: "\\f48a";
+$package: "\\f48b";
+$package-2: "\\f48c";
+$package-check: "\\f48d";
+$package-minus: "\\f48e";
+$package-open: "\\f48f";
+$package-plus: "\\f490";
+$package-search: "\\f491";
+$package-x: "\\f492";
+$paint-bucket: "\\f493";
+$paint-roller: "\\f494";
+$paintbrush: "\\f495";
+$paintbrush-vertical: "\\f496";
+$palette: "\\f497";
+$panda: "\\f498";
+$panel-bottom: "\\f499";
+$panel-bottom-close: "\\f49a";
+$panel-bottom-dashed: "\\f49b";
+$panel-bottom-open: "\\f49c";
+$panel-left: "\\f49d";
+$panel-left-close: "\\f49e";
+$panel-left-dashed: "\\f49f";
+$panel-left-open: "\\f4a0";
+$panel-left-right-dashed: "\\f4a1";
+$panel-right: "\\f4a2";
+$panel-right-close: "\\f4a3";
+$panel-right-dashed: "\\f4a4";
+$panel-right-open: "\\f4a5";
+$panel-top: "\\f4a6";
+$panel-top-bottom-dashed: "\\f4a7";
+$panel-top-close: "\\f4a8";
+$panel-top-dashed: "\\f4a9";
+$panel-top-open: "\\f4aa";
+$panels-left-bottom: "\\f4ab";
+$panels-right-bottom: "\\f4ac";
+$panels-top-left: "\\f4ad";
+$paper-bag: "\\f4ae";
+$paperclip: "\\f4af";
+$parasol: "\\f4b0";
+$parentheses: "\\f4b1";
+$park: "\\f4b2";
+$parking-meter: "\\f4b3";
+$party-popper: "\\f4b4";
+$pause: "\\f4b5";
+$paw-print: "\\f4b6";
+$pc-case: "\\f4b7";
+$pen: "\\f4b8";
+$pen-line: "\\f4b9";
+$pen-off: "\\f4ba";
+$pen-tool: "\\f4bb";
+$pencil: "\\f4bc";
+$pencil-line: "\\f4bd";
+$pencil-off: "\\f4be";
+$pencil-ruler: "\\f4bf";
+$pencil-sparkles: "\\f4c0";
+$pentagon: "\\f4c1";
+$percent: "\\f4c2";
+$person-standing: "\\f4c3";
+$phi: "\\f4c4";
+$philippine-peso: "\\f4c5";
+$phone: "\\f4c6";
+$phone-call: "\\f4c7";
+$phone-forwarded: "\\f4c8";
+$phone-incoming: "\\f4c9";
+$phone-missed: "\\f4ca";
+$phone-off: "\\f4cb";
+$phone-outgoing: "\\f4cc";
+$pi: "\\f4cd";
+$piano: "\\f4ce";
+$pickaxe: "\\f4cf";
+$picture-in-picture: "\\f4d0";
+$picture-in-picture-2: "\\f4d1";
+$piggy-bank: "\\f4d2";
+$pilcrow: "\\f4d3";
+$pilcrow-left: "\\f4d4";
+$pilcrow-right: "\\f4d5";
+$pill: "\\f4d6";
+$pill-bottle: "\\f4d7";
+$pin: "\\f4d8";
+$pin-off: "\\f4d9";
+$pipette: "\\f4da";
+$pizza: "\\f4db";
+$plane: "\\f4dc";
+$plane-landing: "\\f4dd";
+$plane-takeoff: "\\f4de";
+$plant-pot: "\\f4df";
+$play: "\\f4e0";
+$play-off: "\\f4e1";
+$playing-card: "\\f4e2";
+$playing-cards: "\\f4e3";
+$playing-cards-fan: "\\f4e4";
+$plug: "\\f4e5";
+$plug-2: "\\f4e6";
+$plug-zap: "\\f4e7";
+$plus: "\\f4e8";
+$pocket-knife: "\\f4e9";
+$podium: "\\f4ea";
+$pointer: "\\f4eb";
+$pointer-off: "\\f4ec";
+$popcorn: "\\f4ed";
+$popsicle: "\\f4ee";
+$pound-sterling: "\\f4ef";
+$power: "\\f4f0";
+$power-off: "\\f4f1";
+$presentation: "\\f4f2";
+$printer: "\\f4f3";
+$printer-check: "\\f4f4";
+$printer-x: "\\f4f5";
+$projector: "\\f4f6";
+$proportions: "\\f4f7";
+$puzzle: "\\f4f8";
+$pyramid: "\\f4f9";
+$qr-code: "\\f4fa";
+$quote: "\\f4fb";
+$rabbit: "\\f4fc";
+$radar: "\\f4fd";
+$radiation: "\\f4fe";
+$radical: "\\f4ff";
+$radio: "\\f500";
+$radio-off: "\\f501";
+$radio-receiver: "\\f502";
+$radio-tower: "\\f503";
+$radius: "\\f504";
+$rainbow: "\\f505";
+$rat: "\\f506";
+$ratio: "\\f507";
+$receipt: "\\f508";
+$receipt-cent: "\\f509";
+$receipt-euro: "\\f50a";
+$receipt-indian-rupee: "\\f50b";
+$receipt-japanese-yen: "\\f50c";
+$receipt-pound-sterling: "\\f50d";
+$receipt-russian-ruble: "\\f50e";
+$receipt-swiss-franc: "\\f50f";
+$receipt-text: "\\f510";
+$receipt-turkish-lira: "\\f511";
+$rectangle-circle: "\\f512";
+$rectangle-ellipsis: "\\f513";
+$rectangle-goggles: "\\f514";
+$rectangle-horizontal: "\\f515";
+$rectangle-vertical: "\\f516";
+$recycle: "\\f517";
+$redo: "\\f518";
+$redo-2: "\\f519";
+$redo-dot: "\\f51a";
+$refresh-ccw: "\\f51b";
+$refresh-ccw-dot: "\\f51c";
+$refresh-cw: "\\f51d";
+$refresh-cw-off: "\\f51e";
+$refrigerator: "\\f51f";
+$regex: "\\f520";
+$remove-formatting: "\\f521";
+$repeat: "\\f522";
+$repeat-1: "\\f523";
+$repeat-2: "\\f524";
+$repeat-off: "\\f525";
+$replace: "\\f526";
+$replace-all: "\\f527";
+$reply: "\\f528";
+$reply-all: "\\f529";
+$rewind: "\\f52a";
+$ribbon: "\\f52b";
+$road: "\\f52c";
+$robot-arm: "\\f52d";
+$robot-vacuum: "\\f52e";
+$rocket: "\\f52f";
+$rocking-chair: "\\f530";
+$roller-coaster: "\\f531";
+$rose: "\\f532";
+$rotate-3d: "\\f533";
+$rotate-ccw: "\\f534";
+$rotate-ccw-clock: "\\f535";
+$rotate-ccw-key: "\\f536";
+$rotate-ccw-square: "\\f537";
+$rotate-cw: "\\f538";
+$rotate-cw-clock: "\\f539";
+$rotate-cw-fading-clock: "\\f53a";
+$rotate-cw-square: "\\f53b";
+$route: "\\f53c";
+$route-off: "\\f53d";
+$router: "\\f53e";
+$rows-2: "\\f53f";
+$rows-3: "\\f540";
+$rows-4: "\\f541";
+$rss: "\\f542";
+$ruler: "\\f543";
+$ruler-dimension-line: "\\f544";
+$russian-ruble: "\\f545";
+$sailboat: "\\f546";
+$salad: "\\f547";
+$sandwich: "\\f548";
+$satellite: "\\f549";
+$satellite-dish: "\\f54a";
+$saudi-riyal: "\\f54b";
+$save: "\\f54c";
+$save-all: "\\f54d";
+$save-check: "\\f54e";
+$save-off: "\\f54f";
+$save-pen: "\\f550";
+$save-plus: "\\f551";
+$scale: "\\f552";
+$scale-3d: "\\f553";
+$scaling: "\\f554";
+$scan: "\\f555";
+$scan-barcode: "\\f556";
+$scan-box: "\\f557";
+$scan-eye: "\\f558";
+$scan-face: "\\f559";
+$scan-heart: "\\f55a";
+$scan-line: "\\f55b";
+$scan-qr-code: "\\f55c";
+$scan-search: "\\f55d";
+$scan-square: "\\f55e";
+$scan-text: "\\f55f";
+$school: "\\f560";
+$scissors: "\\f561";
+$scissors-line-dashed: "\\f562";
+$scooter: "\\f563";
+$screen-share: "\\f564";
+$screen-share-off: "\\f565";
+$scroll: "\\f566";
+$scroll-text: "\\f567";
+$search: "\\f568";
+$search-alert: "\\f569";
+$search-check: "\\f56a";
+$search-code: "\\f56b";
+$search-slash: "\\f56c";
+$search-x: "\\f56d";
+$section: "\\f56e";
+$send: "\\f56f";
+$send-horizontal: "\\f570";
+$send-to-back: "\\f571";
+$separator-horizontal: "\\f572";
+$separator-vertical: "\\f573";
+$server: "\\f574";
+$server-cog: "\\f575";
+$server-crash: "\\f576";
+$server-off: "\\f577";
+$server-plus: "\\f578";
+$settings: "\\f579";
+$settings-2: "\\f57a";
+$shapes: "\\f57b";
+$share: "\\f57c";
+$share-2: "\\f57d";
+$sheet: "\\f57e";
+$shell: "\\f57f";
+$shelving-unit: "\\f580";
+$shield: "\\f581";
+$shield-alert: "\\f582";
+$shield-ban: "\\f583";
+$shield-check: "\\f584";
+$shield-cog: "\\f585";
+$shield-cog-corner: "\\f586";
+$shield-ellipsis: "\\f587";
+$shield-half: "\\f588";
+$shield-keyhole: "\\f589";
+$shield-lock: "\\f58a";
+$shield-minus: "\\f58b";
+$shield-off: "\\f58c";
+$shield-plus: "\\f58d";
+$shield-question-mark: "\\f58e";
+$shield-user: "\\f58f";
+$shield-x: "\\f590";
+$ship: "\\f591";
+$ship-cargo: "\\f592";
+$ship-wheel: "\\f593";
+$shirt: "\\f594";
+$shopping-bag: "\\f595";
+$shopping-basket: "\\f596";
+$shopping-cart: "\\f597";
+$shopping-cart-minus: "\\f598";
+$shopping-cart-plus: "\\f599";
+$shovel: "\\f59a";
+$shower-head: "\\f59b";
+$shredder: "\\f59c";
+$shrimp: "\\f59d";
+$shrimp-off: "\\f59e";
+$shrink: "\\f59f";
+$shrub: "\\f5a0";
+$shuffle: "\\f5a1";
+$sigma: "\\f5a2";
+$signal: "\\f5a3";
+$signal-high: "\\f5a4";
+$signal-low: "\\f5a5";
+$signal-medium: "\\f5a6";
+$signal-zero: "\\f5a7";
+$signature: "\\f5a8";
+$signpost: "\\f5a9";
+$signpost-big: "\\f5aa";
+$siren: "\\f5ab";
+$skip-back: "\\f5ac";
+$skip-forward: "\\f5ad";
+$skull: "\\f5ae";
+$slash: "\\f5af";
+$sliders-horizontal: "\\f5b0";
+$sliders-vertical: "\\f5b1";
+$smartphone: "\\f5b2";
+$smartphone-charging: "\\f5b3";
+$smartphone-nfc: "\\f5b4";
+$snail: "\\f5b5";
+$snowflake: "\\f5b6";
+$soap-dispenser-droplet: "\\f5b7";
+$sofa: "\\f5b8";
+$solar-panel: "\\f5b9";
+$soup: "\\f5ba";
+$space: "\\f5bb";
+$spade: "\\f5bc";
+$sparkle: "\\f5bd";
+$sparkles: "\\f5be";
+$speaker: "\\f5bf";
+$speech: "\\f5c0";
+$spell-check: "\\f5c1";
+$spell-check-2: "\\f5c2";
+$spline: "\\f5c3";
+$spline-pointer: "\\f5c4";
+$split: "\\f5c5";
+$spool: "\\f5c6";
+$sport-shoe: "\\f5c7";
+$spotlight: "\\f5c8";
+$spray-can: "\\f5c9";
+$sprout: "\\f5ca";
+$square: "\\f5cb";
+$square-activity: "\\f5cc";
+$square-arrow-down: "\\f5cd";
+$square-arrow-down-left: "\\f5ce";
+$square-arrow-down-right: "\\f5cf";
+$square-arrow-left: "\\f5d0";
+$square-arrow-out-down-left: "\\f5d1";
+$square-arrow-out-down-right: "\\f5d2";
+$square-arrow-out-up-left: "\\f5d3";
+$square-arrow-out-up-right: "\\f5d4";
+$square-arrow-right: "\\f5d5";
+$square-arrow-right-enter: "\\f5d6";
+$square-arrow-right-exit: "\\f5d7";
+$square-arrow-up: "\\f5d8";
+$square-arrow-up-left: "\\f5d9";
+$square-arrow-up-right: "\\f5da";
+$square-asterisk: "\\f5db";
+$square-bookmark: "\\f5dc";
+$square-bottom-dashed-scissors: "\\f5dd";
+$square-centerline-dashed-horizontal: "\\f5de";
+$square-centerline-dashed-vertical: "\\f5df";
+$square-chart-gantt: "\\f5e0";
+$square-check: "\\f5e1";
+$square-check-big: "\\f5e2";
+$square-chevron-down: "\\f5e3";
+$square-chevron-left: "\\f5e4";
+$square-chevron-right: "\\f5e5";
+$square-chevron-up: "\\f5e6";
+$square-code: "\\f5e7";
+$square-dashed: "\\f5e8";
+$square-dashed-bottom: "\\f5e9";
+$square-dashed-bottom-code: "\\f5ea";
+$square-dashed-kanban: "\\f5eb";
+$square-dashed-mouse-pointer: "\\f5ec";
+$square-dashed-plus: "\\f5ed";
+$square-dashed-text: "\\f5ee";
+$square-dashed-top-solid: "\\f5ef";
+$square-dashed-x: "\\f5f0";
+$square-dashed-x-corner: "\\f5f1";
+$square-dimensions: "\\f5f2";
+$square-divide: "\\f5f3";
+$square-dot: "\\f5f4";
+$square-equal: "\\f5f5";
+$square-exclamation-point: "\\f5f6";
+$square-function: "\\f5f7";
+$square-kanban: "\\f5f8";
+$square-library: "\\f5f9";
+$square-m: "\\f5fa";
+$square-menu: "\\f5fb";
+$square-minus: "\\f5fc";
+$square-mouse-pointer: "\\f5fd";
+$square-off: "\\f5fe";
+$square-parking: "\\f5ff";
+$square-parking-off: "\\f600";
+$square-pause: "\\f601";
+$square-pen: "\\f602";
+$square-percent: "\\f603";
+$square-pi: "\\f604";
+$square-pilcrow: "\\f605";
+$square-play: "\\f606";
+$square-plus: "\\f607";
+$square-power: "\\f608";
+$square-radical: "\\f609";
+$square-round-corner: "\\f60a";
+$square-scissors: "\\f60b";
+$square-sigma: "\\f60c";
+$square-slash: "\\f60d";
+$square-split-horizontal: "\\f60e";
+$square-split-vertical: "\\f60f";
+$square-square: "\\f610";
+$square-stack: "\\f611";
+$square-star: "\\f612";
+$square-stop: "\\f613";
+$square-terminal: "\\f614";
+$square-text: "\\f615";
+$square-user: "\\f616";
+$square-user-round: "\\f617";
+$square-x: "\\f618";
+$squares-exclude: "\\f619";
+$squares-intersect: "\\f61a";
+$squares-subtract: "\\f61b";
+$squares-unite: "\\f61c";
+$squircle: "\\f61d";
+$squircle-dashed: "\\f61e";
+$squirrel: "\\f61f";
+$stamp: "\\f620";
+$star: "\\f621";
+$star-check: "\\f622";
+$star-half: "\\f623";
+$star-minus: "\\f624";
+$star-off: "\\f625";
+$star-plus: "\\f626";
+$star-x: "\\f627";
+$step-back: "\\f628";
+$step-forward: "\\f629";
+$stethoscope: "\\f62a";
+$sticker: "\\f62b";
+$sticky-note: "\\f62c";
+$sticky-note-check: "\\f62d";
+$sticky-note-minus: "\\f62e";
+$sticky-note-off: "\\f62f";
+$sticky-note-plus: "\\f630";
+$sticky-note-x: "\\f631";
+$sticky-notes: "\\f632";
+$stone: "\\f633";
+$store: "\\f634";
+$stretch-horizontal: "\\f635";
+$stretch-vertical: "\\f636";
+$strikethrough: "\\f637";
+$subscript: "\\f638";
+$summary: "\\f639";
+$sun: "\\f63a";
+$sun-dim: "\\f63b";
+$sun-medium: "\\f63c";
+$sun-moon: "\\f63d";
+$sun-snow: "\\f63e";
+$sunrise: "\\f63f";
+$sunset: "\\f640";
+$superscript: "\\f641";
+$swatch-book: "\\f642";
+$swiss-franc: "\\f643";
+$switch-camera: "\\f644";
+$sword: "\\f645";
+$swords: "\\f646";
+$syringe: "\\f647";
+$table: "\\f648";
+$table-2: "\\f649";
+$table-cells-merge: "\\f64a";
+$table-cells-split: "\\f64b";
+$table-columns-split: "\\f64c";
+$table-of-contents: "\\f64d";
+$table-properties: "\\f64e";
+$table-rows-split: "\\f64f";
+$tablet: "\\f650";
+$tablet-smartphone: "\\f651";
+$tablets: "\\f652";
+$tag: "\\f653";
+$tag-plus: "\\f654";
+$tag-x: "\\f655";
+$tags: "\\f656";
+$tally-1: "\\f657";
+$tally-2: "\\f658";
+$tally-3: "\\f659";
+$tally-4: "\\f65a";
+$tally-5: "\\f65b";
+$tangent: "\\f65c";
+$target: "\\f65d";
+$telescope: "\\f65e";
+$tent: "\\f65f";
+$tent-tree: "\\f660";
+$terminal: "\\f661";
+$test-tube: "\\f662";
+$test-tube-diagonal: "\\f663";
+$test-tubes: "\\f664";
+$text-align-center: "\\f665";
+$text-align-end: "\\f666";
+$text-align-justify: "\\f667";
+$text-align-start: "\\f668";
+$text-cursor: "\\f669";
+$text-cursor-input: "\\f66a";
+$text-initial: "\\f66b";
+$text-quote: "\\f66c";
+$text-search: "\\f66d";
+$text-wrap: "\\f66e";
+$theater: "\\f66f";
+$thermometer: "\\f670";
+$thermometer-snowflake: "\\f671";
+$thermometer-sun: "\\f672";
+$thumbs-down: "\\f673";
+$thumbs-up: "\\f674";
+$tic-tac-toe: "\\f675";
+$ticket: "\\f676";
+$ticket-check: "\\f677";
+$ticket-minus: "\\f678";
+$ticket-percent: "\\f679";
+$ticket-plus: "\\f67a";
+$ticket-slash: "\\f67b";
+$ticket-x: "\\f67c";
+$tickets: "\\f67d";
+$tickets-plane: "\\f67e";
+$timeline: "\\f67f";
+$timer: "\\f680";
+$timer-off: "\\f681";
+$timer-reset: "\\f682";
+$toggle-left: "\\f683";
+$toggle-right: "\\f684";
+$toilet: "\\f685";
+$tool-case: "\\f686";
+$toolbox: "\\f687";
+$toothbrush: "\\f688";
+$toothbrush-sparkles: "\\f689";
+$tornado: "\\f68a";
+$torus: "\\f68b";
+$touchpad: "\\f68c";
+$touchpad-off: "\\f68d";
+$towel-rack: "\\f68e";
+$tower-control: "\\f68f";
+$toy-brick: "\\f690";
+$tractor: "\\f691";
+$traffic-cone: "\\f692";
+$trailer: "\\f693";
+$train-front: "\\f694";
+$train-front-tunnel: "\\f695";
+$train-track: "\\f696";
+$tram-front: "\\f697";
+$transgender: "\\f698";
+$trash: "\\f699";
+$trash-off: "\\f69a";
+$tree-deciduous: "\\f69b";
+$tree-palm: "\\f69c";
+$tree-pine: "\\f69d";
+$trees: "\\f69e";
+$trending-down: "\\f69f";
+$trending-up: "\\f6a0";
+$trending-up-down: "\\f6a1";
+$triangle: "\\f6a2";
+$triangle-alert: "\\f6a3";
+$triangle-dashed: "\\f6a4";
+$triangle-right: "\\f6a5";
+$triangles-centerline-dashed-horizontal: "\\f6a6";
+$triangles-centerline-dashed-vertical: "\\f6a7";
+$trophy: "\\f6a8";
+$truck: "\\f6a9";
+$truck-electric: "\\f6aa";
+$tube-lotion: "\\f6ab";
+$turkish-lira: "\\f6ac";
+$turntable: "\\f6ad";
+$turtle: "\\f6ae";
+$tv: "\\f6af";
+$tv-minimal: "\\f6b0";
+$tv-minimal-play: "\\f6b1";
+$type: "\\f6b2";
+$type-outline: "\\f6b3";
+$umbrella: "\\f6b4";
+$umbrella-off: "\\f6b5";
+$underline: "\\f6b6";
+$undo: "\\f6b7";
+$undo-2: "\\f6b8";
+$undo-dot: "\\f6b9";
+$unfold-horizontal: "\\f6ba";
+$unfold-vertical: "\\f6bb";
+$ungroup: "\\f6bc";
+$university: "\\f6bd";
+$unlink: "\\f6be";
+$unlink-2: "\\f6bf";
+$unplug: "\\f6c0";
+$upload: "\\f6c1";
+$usb: "\\f6c2";
+$usb-c-port: "\\f6c3";
+$user: "\\f6c4";
+$user-check: "\\f6c5";
+$user-cog: "\\f6c6";
+$user-group: "\\f6c7";
+$user-key: "\\f6c8";
+$user-lock: "\\f6c9";
+$user-minus: "\\f6ca";
+$user-pen: "\\f6cb";
+$user-plus: "\\f6cc";
+$user-round: "\\f6cd";
+$user-round-arrow-left: "\\f6ce";
+$user-round-check: "\\f6cf";
+$user-round-cog: "\\f6d0";
+$user-round-group: "\\f6d1";
+$user-round-key: "\\f6d2";
+$user-round-minus: "\\f6d3";
+$user-round-pen: "\\f6d4";
+$user-round-plus: "\\f6d5";
+$user-round-search: "\\f6d6";
+$user-round-x: "\\f6d7";
+$user-search: "\\f6d8";
+$user-shield: "\\f6d9";
+$user-star: "\\f6da";
+$user-x: "\\f6db";
+$users: "\\f6dc";
+$users-round: "\\f6dd";
+$utensils: "\\f6de";
+$utensils-crossed: "\\f6df";
+$utility-pole: "\\f6e0";
+$van: "\\f6e1";
+$variable: "\\f6e2";
+$vault: "\\f6e3";
+$vector-polygon: "\\f6e4";
+$vector-square: "\\f6e5";
+$vegan: "\\f6e6";
+$venetian-mask: "\\f6e7";
+$venus: "\\f6e8";
+$venus-and-mars: "\\f6e9";
+$vibrate: "\\f6ea";
+$vibrate-off: "\\f6eb";
+$video: "\\f6ec";
+$video-off: "\\f6ed";
+$videotape: "\\f6ee";
+$view: "\\f6ef";
+$virus: "\\f6f0";
+$virus-off: "\\f6f1";
+$voicemail: "\\f6f2";
+$volleyball: "\\f6f3";
+$volume: "\\f6f4";
+$volume-1: "\\f6f5";
+$volume-2: "\\f6f6";
+$volume-off: "\\f6f7";
+$volume-x: "\\f6f8";
+$vote: "\\f6f9";
+$wallet: "\\f6fa";
+$wallet-cards: "\\f6fb";
+$wallet-minimal: "\\f6fc";
+$wallpaper: "\\f6fd";
+$wand: "\\f6fe";
+$wand-sparkles: "\\f6ff";
+$warehouse: "\\f700";
+$washing-machine: "\\f701";
+$watch: "\\f702";
+$waves-arrow-down: "\\f703";
+$waves-arrow-up: "\\f704";
+$waves-horizontal: "\\f705";
+$waves-ladder: "\\f706";
+$waves-vertical: "\\f707";
+$waypoints: "\\f708";
+$webcam: "\\f709";
+$webcam-off: "\\f70a";
+$webhook: "\\f70b";
+$webhook-off: "\\f70c";
+$weight: "\\f70d";
+$weight-tilde: "\\f70e";
+$wheat: "\\f70f";
+$wheat-off: "\\f710";
+$whistle: "\\f711";
+$whole-word: "\\f712";
+$wifi: "\\f713";
+$wifi-cog: "\\f714";
+$wifi-high: "\\f715";
+$wifi-low: "\\f716";
+$wifi-off: "\\f717";
+$wifi-pen: "\\f718";
+$wifi-sync: "\\f719";
+$wifi-zero: "\\f71a";
+$wind: "\\f71b";
+$wind-arrow-down: "\\f71c";
+$wine: "\\f71d";
+$wine-off: "\\f71e";
+$workflow: "\\f71f";
+$worm: "\\f720";
+$wrench: "\\f721";
+$wrench-off: "\\f722";
+$x: "\\f723";
+$x-line-top: "\\f724";
+$zap: "\\f725";
+$zap-off: "\\f726";
+$zodiac-aquarius: "\\f727";
+$zodiac-aries: "\\f728";
+$zodiac-cancer: "\\f729";
+$zodiac-capricorn: "\\f72a";
+$zodiac-gemini: "\\f72b";
+$zodiac-leo: "\\f72c";
+$zodiac-libra: "\\f72d";
+$zodiac-ophiuchus: "\\f72e";
+$zodiac-pisces: "\\f72f";
+$zodiac-sagittarius: "\\f730";
+$zodiac-scorpio: "\\f731";
+$zodiac-taurus: "\\f732";
+$zodiac-virgo: "\\f733";
+$zoom-in: "\\f734";
+$zoom-out: "\\f735";
+
+$icons: (
+  "a-arrow-down": $a-arrow-down,
+  "a-arrow-up": $a-arrow-up,
+  "a-large-small": $a-large-small,
+  "accessibility": $accessibility,
+  "activity": $activity,
+  "ad": $ad,
+  "air-vent": $air-vent,
+  "airplay": $airplay,
+  "alarm-clock": $alarm-clock,
+  "alarm-clock-check": $alarm-clock-check,
+  "alarm-clock-minus": $alarm-clock-minus,
+  "alarm-clock-off": $alarm-clock-off,
+  "alarm-clock-plus": $alarm-clock-plus,
+  "alarm-smoke": $alarm-smoke,
+  "align-center-horizontal": $align-center-horizontal,
+  "align-center-vertical": $align-center-vertical,
+  "align-end-horizontal": $align-end-horizontal,
+  "align-end-vertical": $align-end-vertical,
+  "align-horizontal-distribute-center": $align-horizontal-distribute-center,
+  "align-horizontal-distribute-end": $align-horizontal-distribute-end,
+  "align-horizontal-distribute-start": $align-horizontal-distribute-start,
+  "align-horizontal-justify-center": $align-horizontal-justify-center,
+  "align-horizontal-justify-end": $align-horizontal-justify-end,
+  "align-horizontal-justify-start": $align-horizontal-justify-start,
+  "align-horizontal-space-around": $align-horizontal-space-around,
+  "align-horizontal-space-between": $align-horizontal-space-between,
+  "align-start-horizontal": $align-start-horizontal,
+  "align-start-vertical": $align-start-vertical,
+  "align-vertical-distribute-center": $align-vertical-distribute-center,
+  "align-vertical-distribute-end": $align-vertical-distribute-end,
+  "align-vertical-distribute-start": $align-vertical-distribute-start,
+  "align-vertical-justify-center": $align-vertical-justify-center,
+  "align-vertical-justify-end": $align-vertical-justify-end,
+  "align-vertical-justify-start": $align-vertical-justify-start,
+  "align-vertical-space-around": $align-vertical-space-around,
+  "align-vertical-space-between": $align-vertical-space-between,
+  "ambulance": $ambulance,
+  "ampersand": $ampersand,
+  "ampersands": $ampersands,
+  "amphora": $amphora,
+  "anchor": $anchor,
+  "angle": $angle,
+  "antenna": $antenna,
+  "anvil": $anvil,
+  "aperture": $aperture,
+  "app-window": $app-window,
+  "app-window-mac": $app-window-mac,
+  "apple": $apple,
+  "archive": $archive,
+  "archive-restore": $archive-restore,
+  "archive-x": $archive-x,
+  "armchair": $armchair,
+  "arrow-big-down": $arrow-big-down,
+  "arrow-big-down-dash": $arrow-big-down-dash,
+  "arrow-big-left": $arrow-big-left,
+  "arrow-big-left-dash": $arrow-big-left-dash,
+  "arrow-big-right": $arrow-big-right,
+  "arrow-big-right-dash": $arrow-big-right-dash,
+  "arrow-big-up": $arrow-big-up,
+  "arrow-big-up-dash": $arrow-big-up-dash,
+  "arrow-down": $arrow-down,
+  "arrow-down-0-1": $arrow-down-0-1,
+  "arrow-down-1-0": $arrow-down-1-0,
+  "arrow-down-a-z": $arrow-down-a-z,
+  "arrow-down-from-line": $arrow-down-from-line,
+  "arrow-down-left": $arrow-down-left,
+  "arrow-down-narrow-wide": $arrow-down-narrow-wide,
+  "arrow-down-right": $arrow-down-right,
+  "arrow-down-to-dot": $arrow-down-to-dot,
+  "arrow-down-to-line": $arrow-down-to-line,
+  "arrow-down-up": $arrow-down-up,
+  "arrow-down-wide-narrow": $arrow-down-wide-narrow,
+  "arrow-down-z-a": $arrow-down-z-a,
+  "arrow-left": $arrow-left,
+  "arrow-left-from-line": $arrow-left-from-line,
+  "arrow-left-right": $arrow-left-right,
+  "arrow-left-to-line": $arrow-left-to-line,
+  "arrow-right": $arrow-right,
+  "arrow-right-from-line": $arrow-right-from-line,
+  "arrow-right-left": $arrow-right-left,
+  "arrow-right-to-line": $arrow-right-to-line,
+  "arrow-up": $arrow-up,
+  "arrow-up-0-1": $arrow-up-0-1,
+  "arrow-up-1-0": $arrow-up-1-0,
+  "arrow-up-a-z": $arrow-up-a-z,
+  "arrow-up-down": $arrow-up-down,
+  "arrow-up-from-dot": $arrow-up-from-dot,
+  "arrow-up-from-line": $arrow-up-from-line,
+  "arrow-up-left": $arrow-up-left,
+  "arrow-up-narrow-wide": $arrow-up-narrow-wide,
+  "arrow-up-right": $arrow-up-right,
+  "arrow-up-to-line": $arrow-up-to-line,
+  "arrow-up-wide-narrow": $arrow-up-wide-narrow,
+  "arrow-up-z-a": $arrow-up-z-a,
+  "arrows-up-from-line": $arrows-up-from-line,
+  "asterisk": $asterisk,
+  "astroid": $astroid,
+  "at-sign": $at-sign,
+  "atom": $atom,
+  "audio-lines": $audio-lines,
+  "audio-lines-off": $audio-lines-off,
+  "audio-lines-x": $audio-lines-x,
+  "audio-waveform": $audio-waveform,
+  "award": $award,
+  "axe": $axe,
+  "axis-3d": $axis-3d,
+  "baby": $baby,
+  "backpack": $backpack,
+  "badge": $badge,
+  "badge-alert": $badge-alert,
+  "badge-cent": $badge-cent,
+  "badge-check": $badge-check,
+  "badge-dollar-sign": $badge-dollar-sign,
+  "badge-euro": $badge-euro,
+  "badge-indian-rupee": $badge-indian-rupee,
+  "badge-info": $badge-info,
+  "badge-japanese-yen": $badge-japanese-yen,
+  "badge-minus": $badge-minus,
+  "badge-percent": $badge-percent,
+  "badge-plus": $badge-plus,
+  "badge-pound-sterling": $badge-pound-sterling,
+  "badge-question-mark": $badge-question-mark,
+  "badge-russian-ruble": $badge-russian-ruble,
+  "badge-swiss-franc": $badge-swiss-franc,
+  "badge-turkish-lira": $badge-turkish-lira,
+  "badge-x": $badge-x,
+  "baggage-claim": $baggage-claim,
+  "balloon": $balloon,
+  "ban": $ban,
+  "banana": $banana,
+  "bandage": $bandage,
+  "banknote": $banknote,
+  "banknote-arrow-down": $banknote-arrow-down,
+  "banknote-arrow-up": $banknote-arrow-up,
+  "banknote-check": $banknote-check,
+  "banknote-x": $banknote-x,
+  "barcode": $barcode,
+  "barrel": $barrel,
+  "baseline": $baseline,
+  "bath": $bath,
+  "battery": $battery,
+  "battery-charging": $battery-charging,
+  "battery-full": $battery-full,
+  "battery-low": $battery-low,
+  "battery-medium": $battery-medium,
+  "battery-plus": $battery-plus,
+  "battery-warning": $battery-warning,
+  "beaker": $beaker,
+  "bean": $bean,
+  "bean-off": $bean-off,
+  "bed": $bed,
+  "bed-double": $bed-double,
+  "bed-single": $bed-single,
+  "beef": $beef,
+  "beef-off": $beef-off,
+  "beer": $beer,
+  "beer-off": $beer-off,
+  "bell": $bell,
+  "bell-check": $bell-check,
+  "bell-dot": $bell-dot,
+  "bell-electric": $bell-electric,
+  "bell-minus": $bell-minus,
+  "bell-off": $bell-off,
+  "bell-plus": $bell-plus,
+  "bell-ring": $bell-ring,
+  "between-horizontal-end": $between-horizontal-end,
+  "between-horizontal-start": $between-horizontal-start,
+  "between-vertical-end": $between-vertical-end,
+  "between-vertical-start": $between-vertical-start,
+  "biceps-flexed": $biceps-flexed,
+  "bike": $bike,
+  "binary": $binary,
+  "binoculars": $binoculars,
+  "biohazard": $biohazard,
+  "bird": $bird,
+  "birdhouse": $birdhouse,
+  "bitcoin": $bitcoin,
+  "blend": $blend,
+  "blender": $blender,
+  "blinds": $blinds,
+  "blocks": $blocks,
+  "bluetooth": $bluetooth,
+  "bluetooth-connected": $bluetooth-connected,
+  "bluetooth-off": $bluetooth-off,
+  "bluetooth-searching": $bluetooth-searching,
+  "bold": $bold,
+  "bolt": $bolt,
+  "bomb": $bomb,
+  "bone": $bone,
+  "bone-fracture": $bone-fracture,
+  "book": $book,
+  "book-a": $book-a,
+  "book-alert": $book-alert,
+  "book-audio": $book-audio,
+  "book-bookmark": $book-bookmark,
+  "book-check": $book-check,
+  "book-copy": $book-copy,
+  "book-dashed": $book-dashed,
+  "book-down": $book-down,
+  "book-headphones": $book-headphones,
+  "book-heart": $book-heart,
+  "book-image": $book-image,
+  "book-key": $book-key,
+  "book-lock": $book-lock,
+  "book-minus": $book-minus,
+  "book-open": $book-open,
+  "book-open-check": $book-open-check,
+  "book-open-text": $book-open-text,
+  "book-plus": $book-plus,
+  "book-search": $book-search,
+  "book-text": $book-text,
+  "book-type": $book-type,
+  "book-up": $book-up,
+  "book-up-2": $book-up-2,
+  "book-user": $book-user,
+  "book-x": $book-x,
+  "bookmark": $bookmark,
+  "bookmark-check": $bookmark-check,
+  "bookmark-minus": $bookmark-minus,
+  "bookmark-off": $bookmark-off,
+  "bookmark-plus": $bookmark-plus,
+  "bookmark-x": $bookmark-x,
+  "boom-box": $boom-box,
+  "bot": $bot,
+  "bot-message-square": $bot-message-square,
+  "bot-off": $bot-off,
+  "bottle-wine": $bottle-wine,
+  "bow-arrow": $bow-arrow,
+  "box": $box,
+  "boxes": $boxes,
+  "braces": $braces,
+  "brackets": $brackets,
+  "brain": $brain,
+  "brain-circuit": $brain-circuit,
+  "brain-cog": $brain-cog,
+  "brick-wall": $brick-wall,
+  "brick-wall-fire": $brick-wall-fire,
+  "brick-wall-shield": $brick-wall-shield,
+  "bridge": $bridge,
+  "briefcase": $briefcase,
+  "briefcase-business": $briefcase-business,
+  "briefcase-conveyor-belt": $briefcase-conveyor-belt,
+  "briefcase-medical": $briefcase-medical,
+  "bring-to-front": $bring-to-front,
+  "broccoli": $broccoli,
+  "broom": $broom,
+  "broom-sparkles": $broom-sparkles,
+  "brush": $brush,
+  "brush-cleaning": $brush-cleaning,
+  "bubbles": $bubbles,
+  "bug": $bug,
+  "bug-off": $bug-off,
+  "bug-play": $bug-play,
+  "building": $building,
+  "building-complex": $building-complex,
+  "building-complex-plus": $building-complex-plus,
+  "bus": $bus,
+  "bus-front": $bus-front,
+  "cable": $cable,
+  "cable-car": $cable-car,
+  "cake": $cake,
+  "cake-slice": $cake-slice,
+  "calculator": $calculator,
+  "calendar": $calendar,
+  "calendar-1": $calendar-1,
+  "calendar-arrow-down": $calendar-arrow-down,
+  "calendar-arrow-up": $calendar-arrow-up,
+  "calendar-check": $calendar-check,
+  "calendar-check-2": $calendar-check-2,
+  "calendar-chevrons-right": $calendar-chevrons-right,
+  "calendar-clock": $calendar-clock,
+  "calendar-cog": $calendar-cog,
+  "calendar-days": $calendar-days,
+  "calendar-fold": $calendar-fold,
+  "calendar-heart": $calendar-heart,
+  "calendar-minus": $calendar-minus,
+  "calendar-minus-2": $calendar-minus-2,
+  "calendar-off": $calendar-off,
+  "calendar-plus": $calendar-plus,
+  "calendar-plus-2": $calendar-plus-2,
+  "calendar-range": $calendar-range,
+  "calendar-search": $calendar-search,
+  "calendar-sync": $calendar-sync,
+  "calendar-x": $calendar-x,
+  "calendar-x-2": $calendar-x-2,
+  "calendars": $calendars,
+  "camera": $camera,
+  "camera-off": $camera-off,
+  "can": $can,
+  "can-soda": $can-soda,
+  "candy": $candy,
+  "candy-cane": $candy-cane,
+  "candy-off": $candy-off,
+  "cannabis": $cannabis,
+  "cannabis-off": $cannabis-off,
+  "captions": $captions,
+  "captions-off": $captions-off,
+  "car": $car,
+  "car-battery": $car-battery,
+  "car-front": $car-front,
+  "car-taxi-front": $car-taxi-front,
+  "caravan": $caravan,
+  "card-sim": $card-sim,
+  "carrot": $carrot,
+  "carton": $carton,
+  "carton-off": $carton-off,
+  "case-lower": $case-lower,
+  "case-sensitive": $case-sensitive,
+  "case-upper": $case-upper,
+  "cassette-tape": $cassette-tape,
+  "cast": $cast,
+  "castle": $castle,
+  "cat": $cat,
+  "cctv": $cctv,
+  "cctv-off": $cctv-off,
+  "chart-area": $chart-area,
+  "chart-bar": $chart-bar,
+  "chart-bar-big": $chart-bar-big,
+  "chart-bar-decreasing": $chart-bar-decreasing,
+  "chart-bar-increasing": $chart-bar-increasing,
+  "chart-bar-stacked": $chart-bar-stacked,
+  "chart-candlestick": $chart-candlestick,
+  "chart-column": $chart-column,
+  "chart-column-big": $chart-column-big,
+  "chart-column-decreasing": $chart-column-decreasing,
+  "chart-column-increasing": $chart-column-increasing,
+  "chart-column-stacked": $chart-column-stacked,
+  "chart-gantt": $chart-gantt,
+  "chart-line": $chart-line,
+  "chart-network": $chart-network,
+  "chart-no-axes-column": $chart-no-axes-column,
+  "chart-no-axes-column-decreasing": $chart-no-axes-column-decreasing,
+  "chart-no-axes-column-increasing": $chart-no-axes-column-increasing,
+  "chart-no-axes-combined": $chart-no-axes-combined,
+  "chart-no-axes-gantt": $chart-no-axes-gantt,
+  "chart-pie": $chart-pie,
+  "chart-scatter": $chart-scatter,
+  "chart-spline": $chart-spline,
+  "check": $check,
+  "check-check": $check-check,
+  "check-line": $check-line,
+  "chef-hat": $chef-hat,
+  "cherry": $cherry,
+  "chess-bishop": $chess-bishop,
+  "chess-king": $chess-king,
+  "chess-knight": $chess-knight,
+  "chess-pawn": $chess-pawn,
+  "chess-queen": $chess-queen,
+  "chess-rook": $chess-rook,
+  "chevron-down": $chevron-down,
+  "chevron-first": $chevron-first,
+  "chevron-last": $chevron-last,
+  "chevron-left": $chevron-left,
+  "chevron-right": $chevron-right,
+  "chevron-up": $chevron-up,
+  "chevrons-down": $chevrons-down,
+  "chevrons-down-up": $chevrons-down-up,
+  "chevrons-left": $chevrons-left,
+  "chevrons-left-right": $chevrons-left-right,
+  "chevrons-left-right-ellipsis": $chevrons-left-right-ellipsis,
+  "chevrons-right": $chevrons-right,
+  "chevrons-right-left": $chevrons-right-left,
+  "chevrons-up": $chevrons-up,
+  "chevrons-up-down": $chevrons-up-down,
+  "church": $church,
+  "cigarette": $cigarette,
+  "cigarette-off": $cigarette-off,
+  "circle": $circle,
+  "circle-alert": $circle-alert,
+  "circle-arrow-down": $circle-arrow-down,
+  "circle-arrow-left": $circle-arrow-left,
+  "circle-arrow-out-down-left": $circle-arrow-out-down-left,
+  "circle-arrow-out-down-right": $circle-arrow-out-down-right,
+  "circle-arrow-out-up-left": $circle-arrow-out-up-left,
+  "circle-arrow-out-up-right": $circle-arrow-out-up-right,
+  "circle-arrow-right": $circle-arrow-right,
+  "circle-arrow-up": $circle-arrow-up,
+  "circle-check": $circle-check,
+  "circle-check-big": $circle-check-big,
+  "circle-chevron-down": $circle-chevron-down,
+  "circle-chevron-left": $circle-chevron-left,
+  "circle-chevron-right": $circle-chevron-right,
+  "circle-chevron-up": $circle-chevron-up,
+  "circle-dashed": $circle-dashed,
+  "circle-dashed-check": $circle-dashed-check,
+  "circle-divide": $circle-divide,
+  "circle-dollar-sign": $circle-dollar-sign,
+  "circle-dot": $circle-dot,
+  "circle-dot-dashed": $circle-dot-dashed,
+  "circle-ellipsis": $circle-ellipsis,
+  "circle-equal": $circle-equal,
+  "circle-euro": $circle-euro,
+  "circle-fading-arrow-up": $circle-fading-arrow-up,
+  "circle-fading-plus": $circle-fading-plus,
+  "circle-gauge": $circle-gauge,
+  "circle-minus": $circle-minus,
+  "circle-off": $circle-off,
+  "circle-parking": $circle-parking,
+  "circle-parking-off": $circle-parking-off,
+  "circle-pause": $circle-pause,
+  "circle-percent": $circle-percent,
+  "circle-pile": $circle-pile,
+  "circle-play": $circle-play,
+  "circle-plus": $circle-plus,
+  "circle-pound-sterling": $circle-pound-sterling,
+  "circle-power": $circle-power,
+  "circle-question-mark": $circle-question-mark,
+  "circle-slash": $circle-slash,
+  "circle-slash-2": $circle-slash-2,
+  "circle-small": $circle-small,
+  "circle-star": $circle-star,
+  "circle-stop": $circle-stop,
+  "circle-user": $circle-user,
+  "circle-user-round": $circle-user-round,
+  "circle-x": $circle-x,
+  "circuit-board": $circuit-board,
+  "citrus": $citrus,
+  "clapperboard": $clapperboard,
+  "clef-alto": $clef-alto,
+  "clef-bass": $clef-bass,
+  "clef-treble": $clef-treble,
+  "clipboard": $clipboard,
+  "clipboard-check": $clipboard-check,
+  "clipboard-clock": $clipboard-clock,
+  "clipboard-copy": $clipboard-copy,
+  "clipboard-list": $clipboard-list,
+  "clipboard-minus": $clipboard-minus,
+  "clipboard-paste": $clipboard-paste,
+  "clipboard-pen": $clipboard-pen,
+  "clipboard-pen-line": $clipboard-pen-line,
+  "clipboard-plus": $clipboard-plus,
+  "clipboard-type": $clipboard-type,
+  "clipboard-x": $clipboard-x,
+  "clock": $clock,
+  "clock-1": $clock-1,
+  "clock-10": $clock-10,
+  "clock-11": $clock-11,
+  "clock-12": $clock-12,
+  "clock-2": $clock-2,
+  "clock-3": $clock-3,
+  "clock-4": $clock-4,
+  "clock-5": $clock-5,
+  "clock-6": $clock-6,
+  "clock-7": $clock-7,
+  "clock-8": $clock-8,
+  "clock-9": $clock-9,
+  "clock-alert": $clock-alert,
+  "clock-arrow-down": $clock-arrow-down,
+  "clock-arrow-left": $clock-arrow-left,
+  "clock-arrow-right": $clock-arrow-right,
+  "clock-arrow-up": $clock-arrow-up,
+  "clock-check": $clock-check,
+  "clock-fading": $clock-fading,
+  "clock-plus": $clock-plus,
+  "closed-caption": $closed-caption,
+  "cloud": $cloud,
+  "cloud-alert": $cloud-alert,
+  "cloud-backup": $cloud-backup,
+  "cloud-check": $cloud-check,
+  "cloud-cog": $cloud-cog,
+  "cloud-download": $cloud-download,
+  "cloud-drizzle": $cloud-drizzle,
+  "cloud-fog": $cloud-fog,
+  "cloud-hail": $cloud-hail,
+  "cloud-lightning": $cloud-lightning,
+  "cloud-moon": $cloud-moon,
+  "cloud-moon-rain": $cloud-moon-rain,
+  "cloud-off": $cloud-off,
+  "cloud-rain": $cloud-rain,
+  "cloud-rain-wind": $cloud-rain-wind,
+  "cloud-snow": $cloud-snow,
+  "cloud-sun": $cloud-sun,
+  "cloud-sun-rain": $cloud-sun-rain,
+  "cloud-sync": $cloud-sync,
+  "cloud-upload": $cloud-upload,
+  "cloudy": $cloudy,
+  "clover": $clover,
+  "club": $club,
+  "code": $code,
+  "code-xml": $code-xml,
+  "coffee": $coffee,
+  "cog": $cog,
+  "coins": $coins,
+  "columns-2": $columns-2,
+  "columns-3": $columns-3,
+  "columns-3-cog": $columns-3-cog,
+  "columns-4": $columns-4,
+  "combine": $combine,
+  "command": $command,
+  "compass": $compass,
+  "component": $component,
+  "computer": $computer,
+  "concierge-bell": $concierge-bell,
+  "cone": $cone,
+  "construction": $construction,
+  "contact": $contact,
+  "contact-round": $contact-round,
+  "container": $container,
+  "contrast": $contrast,
+  "cookie": $cookie,
+  "cooking-pot": $cooking-pot,
+  "copy": $copy,
+  "copy-check": $copy-check,
+  "copy-minus": $copy-minus,
+  "copy-plus": $copy-plus,
+  "copy-slash": $copy-slash,
+  "copy-x": $copy-x,
+  "copyleft": $copyleft,
+  "copyright": $copyright,
+  "corner-down-left": $corner-down-left,
+  "corner-down-right": $corner-down-right,
+  "corner-left-down": $corner-left-down,
+  "corner-left-up": $corner-left-up,
+  "corner-right-down": $corner-right-down,
+  "corner-right-up": $corner-right-up,
+  "corner-up-left": $corner-up-left,
+  "corner-up-right": $corner-up-right,
+  "cpu": $cpu,
+  "creative-commons": $creative-commons,
+  "credit-card": $credit-card,
+  "credit-card-check": $credit-card-check,
+  "credit-card-minus": $credit-card-minus,
+  "credit-card-plus": $credit-card-plus,
+  "credit-card-reader": $credit-card-reader,
+  "credit-card-x": $credit-card-x,
+  "croissant": $croissant,
+  "crop": $crop,
+  "cross": $cross,
+  "crosshair": $crosshair,
+  "crown": $crown,
+  "cuboid": $cuboid,
+  "cup-soda": $cup-soda,
+  "cupcake": $cupcake,
+  "currency": $currency,
+  "cylinder": $cylinder,
+  "dam": $dam,
+  "database": $database,
+  "database-arrow-down": $database-arrow-down,
+  "database-arrow-up": $database-arrow-up,
+  "database-backup": $database-backup,
+  "database-check": $database-check,
+  "database-minus": $database-minus,
+  "database-plus": $database-plus,
+  "database-search": $database-search,
+  "database-x": $database-x,
+  "database-zap": $database-zap,
+  "decimals-arrow-left": $decimals-arrow-left,
+  "decimals-arrow-right": $decimals-arrow-right,
+  "delete": $delete,
+  "dessert": $dessert,
+  "diameter": $diameter,
+  "diamond": $diamond,
+  "diamond-minus": $diamond-minus,
+  "diamond-percent": $diamond-percent,
+  "diamond-plus": $diamond-plus,
+  "dice-1": $dice-1,
+  "dice-2": $dice-2,
+  "dice-3": $dice-3,
+  "dice-4": $dice-4,
+  "dice-5": $dice-5,
+  "dice-6": $dice-6,
+  "dices": $dices,
+  "diff": $diff,
+  "disc": $disc,
+  "disc-2": $disc-2,
+  "disc-3": $disc-3,
+  "disc-album": $disc-album,
+  "divide": $divide,
+  "dna": $dna,
+  "dna-off": $dna-off,
+  "dock": $dock,
+  "dog": $dog,
+  "dollar-sign": $dollar-sign,
+  "dome": $dome,
+  "donut": $donut,
+  "door-closed": $door-closed,
+  "door-closed-locked": $door-closed-locked,
+  "door-closed-package": $door-closed-package,
+  "door-open": $door-open,
+  "door-stairwell": $door-stairwell,
+  "dot": $dot,
+  "download": $download,
+  "drafting-compass": $drafting-compass,
+  "drama": $drama,
+  "drill": $drill,
+  "drone": $drone,
+  "droplet": $droplet,
+  "droplet-off": $droplet-off,
+  "droplets": $droplets,
+  "drum": $drum,
+  "drumstick": $drumstick,
+  "dumbbell": $dumbbell,
+  "ear": $ear,
+  "ear-off": $ear-off,
+  "earth": $earth,
+  "earth-lock": $earth-lock,
+  "eclipse": $eclipse,
+  "egg": $egg,
+  "egg-fried": $egg-fried,
+  "egg-off": $egg-off,
+  "eject": $eject,
+  "ellipse": $ellipse,
+  "ellipsis": $ellipsis,
+  "ellipsis-vertical": $ellipsis-vertical,
+  "engine": $engine,
+  "equal": $equal,
+  "equal-approximately": $equal-approximately,
+  "equal-approximately-not": $equal-approximately-not,
+  "equal-not": $equal-not,
+  "eraser": $eraser,
+  "ethernet-port": $ethernet-port,
+  "euro": $euro,
+  "ev-charger": $ev-charger,
+  "expand": $expand,
+  "external-link": $external-link,
+  "eye": $eye,
+  "eye-closed": $eye-closed,
+  "eye-dashed": $eye-dashed,
+  "eye-off": $eye-off,
+  "face-angry": $face-angry,
+  "face-expressionless": $face-expressionless,
+  "face-grinning": $face-grinning,
+  "face-neutral": $face-neutral,
+  "face-slightly-frowning": $face-slightly-frowning,
+  "face-slightly-smiling": $face-slightly-smiling,
+  "face-slightly-smiling-plus": $face-slightly-smiling-plus,
+  "factory": $factory,
+  "fan": $fan,
+  "fast-forward": $fast-forward,
+  "faucet": $faucet,
+  "feather": $feather,
+  "fence": $fence,
+  "ferris-wheel": $ferris-wheel,
+  "file": $file,
+  "file-archive": $file-archive,
+  "file-axis-3d": $file-axis-3d,
+  "file-badge": $file-badge,
+  "file-box": $file-box,
+  "file-braces": $file-braces,
+  "file-braces-corner": $file-braces-corner,
+  "file-chart-column": $file-chart-column,
+  "file-chart-column-increasing": $file-chart-column-increasing,
+  "file-chart-line": $file-chart-line,
+  "file-chart-pie": $file-chart-pie,
+  "file-check": $file-check,
+  "file-check-corner": $file-check-corner,
+  "file-clock": $file-clock,
+  "file-code": $file-code,
+  "file-code-corner": $file-code-corner,
+  "file-cog": $file-cog,
+  "file-diff": $file-diff,
+  "file-digit": $file-digit,
+  "file-down": $file-down,
+  "file-exclamation-point": $file-exclamation-point,
+  "file-headphone": $file-headphone,
+  "file-heart": $file-heart,
+  "file-image": $file-image,
+  "file-input": $file-input,
+  "file-key": $file-key,
+  "file-lock": $file-lock,
+  "file-minus": $file-minus,
+  "file-minus-corner": $file-minus-corner,
+  "file-music": $file-music,
+  "file-output": $file-output,
+  "file-pen": $file-pen,
+  "file-pen-line": $file-pen-line,
+  "file-play": $file-play,
+  "file-plus": $file-plus,
+  "file-plus-corner": $file-plus-corner,
+  "file-question-mark": $file-question-mark,
+  "file-scan": $file-scan,
+  "file-search": $file-search,
+  "file-search-corner": $file-search-corner,
+  "file-signal": $file-signal,
+  "file-sliders": $file-sliders,
+  "file-spreadsheet": $file-spreadsheet,
+  "file-stack": $file-stack,
+  "file-symlink": $file-symlink,
+  "file-terminal": $file-terminal,
+  "file-text": $file-text,
+  "file-type": $file-type,
+  "file-type-corner": $file-type-corner,
+  "file-up": $file-up,
+  "file-user": $file-user,
+  "file-video-camera": $file-video-camera,
+  "file-volume": $file-volume,
+  "file-x": $file-x,
+  "file-x-corner": $file-x-corner,
+  "files": $files,
+  "film": $film,
+  "fingerprint-pattern": $fingerprint-pattern,
+  "fire-extinguisher": $fire-extinguisher,
+  "fish": $fish,
+  "fish-off": $fish-off,
+  "fish-symbol": $fish-symbol,
+  "fishing-hook": $fishing-hook,
+  "fishing-rod": $fishing-rod,
+  "flag": $flag,
+  "flag-off": $flag-off,
+  "flag-triangle-left": $flag-triangle-left,
+  "flag-triangle-right": $flag-triangle-right,
+  "flame": $flame,
+  "flame-kindling": $flame-kindling,
+  "flashlight": $flashlight,
+  "flashlight-off": $flashlight-off,
+  "flask-conical": $flask-conical,
+  "flask-conical-off": $flask-conical-off,
+  "flask-round": $flask-round,
+  "flower": $flower,
+  "flower-2": $flower-2,
+  "focus": $focus,
+  "fold-horizontal": $fold-horizontal,
+  "fold-vertical": $fold-vertical,
+  "folder": $folder,
+  "folder-archive": $folder-archive,
+  "folder-bookmark": $folder-bookmark,
+  "folder-check": $folder-check,
+  "folder-clock": $folder-clock,
+  "folder-closed": $folder-closed,
+  "folder-code": $folder-code,
+  "folder-cog": $folder-cog,
+  "folder-dot": $folder-dot,
+  "folder-down": $folder-down,
+  "folder-git": $folder-git,
+  "folder-git-2": $folder-git-2,
+  "folder-heart": $folder-heart,
+  "folder-input": $folder-input,
+  "folder-kanban": $folder-kanban,
+  "folder-key": $folder-key,
+  "folder-lock": $folder-lock,
+  "folder-minus": $folder-minus,
+  "folder-open": $folder-open,
+  "folder-open-dot": $folder-open-dot,
+  "folder-output": $folder-output,
+  "folder-pen": $folder-pen,
+  "folder-plus": $folder-plus,
+  "folder-root": $folder-root,
+  "folder-search": $folder-search,
+  "folder-search-2": $folder-search-2,
+  "folder-symlink": $folder-symlink,
+  "folder-sync": $folder-sync,
+  "folder-tree": $folder-tree,
+  "folder-up": $folder-up,
+  "folder-x": $folder-x,
+  "folders": $folders,
+  "footprints": $footprints,
+  "forklift": $forklift,
+  "form": $form,
+  "forward": $forward,
+  "frame": $frame,
+  "fuel": $fuel,
+  "fullscreen": $fullscreen,
+  "funnel": $funnel,
+  "funnel-plus": $funnel-plus,
+  "funnel-x": $funnel-x,
+  "galaxy": $galaxy,
+  "gallery-horizontal": $gallery-horizontal,
+  "gallery-horizontal-end": $gallery-horizontal-end,
+  "gallery-thumbnails": $gallery-thumbnails,
+  "gallery-vertical": $gallery-vertical,
+  "gallery-vertical-end": $gallery-vertical-end,
+  "gamepad": $gamepad,
+  "gamepad-2": $gamepad-2,
+  "gamepad-directional": $gamepad-directional,
+  "gap-horizontal": $gap-horizontal,
+  "gap-vertical": $gap-vertical,
+  "gauge": $gauge,
+  "gavel": $gavel,
+  "gem": $gem,
+  "georgian-lari": $georgian-lari,
+  "germ": $germ,
+  "germ-off": $germ-off,
+  "ghost": $ghost,
+  "gift": $gift,
+  "git-branch": $git-branch,
+  "git-branch-minus": $git-branch-minus,
+  "git-branch-plus": $git-branch-plus,
+  "git-commit-horizontal": $git-commit-horizontal,
+  "git-commit-vertical": $git-commit-vertical,
+  "git-compare": $git-compare,
+  "git-compare-arrows": $git-compare-arrows,
+  "git-fork": $git-fork,
+  "git-graph": $git-graph,
+  "git-merge": $git-merge,
+  "git-merge-conflict": $git-merge-conflict,
+  "git-pull-request": $git-pull-request,
+  "git-pull-request-arrow": $git-pull-request-arrow,
+  "git-pull-request-closed": $git-pull-request-closed,
+  "git-pull-request-create": $git-pull-request-create,
+  "git-pull-request-create-arrow": $git-pull-request-create-arrow,
+  "git-pull-request-draft": $git-pull-request-draft,
+  "glass-water": $glass-water,
+  "glasses": $glasses,
+  "globe": $globe,
+  "globe-check": $globe-check,
+  "globe-code": $globe-code,
+  "globe-lock": $globe-lock,
+  "globe-off": $globe-off,
+  "globe-x": $globe-x,
+  "goal": $goal,
+  "gpu": $gpu,
+  "graduation-cap": $graduation-cap,
+  "grape": $grape,
+  "grid-2x2": $grid-2x2,
+  "grid-2x2-check": $grid-2x2-check,
+  "grid-2x2-plus": $grid-2x2-plus,
+  "grid-2x2-x": $grid-2x2-x,
+  "grid-3x2": $grid-3x2,
+  "grid-3x3": $grid-3x3,
+  "grip": $grip,
+  "grip-horizontal": $grip-horizontal,
+  "grip-vertical": $grip-vertical,
+  "group": $group,
+  "guitar": $guitar,
+  "ham": $ham,
+  "hamburger": $hamburger,
+  "hammer": $hammer,
+  "hand": $hand,
+  "hand-coins": $hand-coins,
+  "hand-fist": $hand-fist,
+  "hand-grab": $hand-grab,
+  "hand-heart": $hand-heart,
+  "hand-helping": $hand-helping,
+  "hand-metal": $hand-metal,
+  "hand-platter": $hand-platter,
+  "handbag": $handbag,
+  "handshake": $handshake,
+  "hard-drive": $hard-drive,
+  "hard-drive-download": $hard-drive-download,
+  "hard-drive-upload": $hard-drive-upload,
+  "hard-hat": $hard-hat,
+  "hash": $hash,
+  "hat-glasses": $hat-glasses,
+  "haze": $haze,
+  "hd": $hd,
+  "hdmi-port": $hdmi-port,
+  "heading": $heading,
+  "heading-1": $heading-1,
+  "heading-2": $heading-2,
+  "heading-3": $heading-3,
+  "heading-4": $heading-4,
+  "heading-5": $heading-5,
+  "heading-6": $heading-6,
+  "headphone-off": $headphone-off,
+  "headphones": $headphones,
+  "headset": $headset,
+  "heart": $heart,
+  "heart-crack": $heart-crack,
+  "heart-handshake": $heart-handshake,
+  "heart-minus": $heart-minus,
+  "heart-off": $heart-off,
+  "heart-plus": $heart-plus,
+  "heart-pulse": $heart-pulse,
+  "heart-x": $heart-x,
+  "heater": $heater,
+  "helicopter": $helicopter,
+  "hexagon": $hexagon,
+  "highlighter": $highlighter,
+  "hop": $hop,
+  "hop-off": $hop-off,
+  "hospital": $hospital,
+  "hotel": $hotel,
+  "hourglass": $hourglass,
+  "hourglass-cog": $hourglass-cog,
+  "house": $house,
+  "house-heart": $house-heart,
+  "house-plug": $house-plug,
+  "house-plus": $house-plus,
+  "house-wifi": $house-wifi,
+  "houses": $houses,
+  "ice-cream-bowl": $ice-cream-bowl,
+  "ice-cream-cone": $ice-cream-cone,
+  "id-card": $id-card,
+  "id-card-lanyard": $id-card-lanyard,
+  "image": $image,
+  "image-down": $image-down,
+  "image-minus": $image-minus,
+  "image-off": $image-off,
+  "image-play": $image-play,
+  "image-plus": $image-plus,
+  "image-up": $image-up,
+  "image-upscale": $image-upscale,
+  "images": $images,
+  "import": $import,
+  "inbox": $inbox,
+  "indian-rupee": $indian-rupee,
+  "infinity": $infinity,
+  "info": $info,
+  "inspection-panel": $inspection-panel,
+  "italic": $italic,
+  "iteration-ccw": $iteration-ccw,
+  "iteration-cw": $iteration-cw,
+  "iv-bag": $iv-bag,
+  "japanese-yen": $japanese-yen,
+  "joystick": $joystick,
+  "kanban": $kanban,
+  "kayak": $kayak,
+  "key": $key,
+  "key-round": $key-round,
+  "key-square": $key-square,
+  "keyboard": $keyboard,
+  "keyboard-music": $keyboard-music,
+  "keyboard-off": $keyboard-off,
+  "lambda": $lambda,
+  "lamp": $lamp,
+  "lamp-ceiling": $lamp-ceiling,
+  "lamp-desk": $lamp-desk,
+  "lamp-floor": $lamp-floor,
+  "lamp-wall-down": $lamp-wall-down,
+  "lamp-wall-up": $lamp-wall-up,
+  "land-plot": $land-plot,
+  "landmark": $landmark,
+  "languages": $languages,
+  "laptop": $laptop,
+  "laptop-minimal": $laptop-minimal,
+  "laptop-minimal-check": $laptop-minimal-check,
+  "lasso": $lasso,
+  "lasso-select": $lasso-select,
+  "layer-arrow-down": $layer-arrow-down,
+  "layer-arrow-up": $layer-arrow-up,
+  "layers": $layers,
+  "layers-2": $layers-2,
+  "layers-arrow-down": $layers-arrow-down,
+  "layers-arrow-up": $layers-arrow-up,
+  "layers-minus": $layers-minus,
+  "layers-plus": $layers-plus,
+  "layout-arrow-down": $layout-arrow-down,
+  "layout-arrow-right": $layout-arrow-right,
+  "layout-dashboard": $layout-dashboard,
+  "layout-freeform": $layout-freeform,
+  "layout-grid": $layout-grid,
+  "layout-list": $layout-list,
+  "layout-panel-left": $layout-panel-left,
+  "layout-panel-top": $layout-panel-top,
+  "layout-template": $layout-template,
+  "leaf": $leaf,
+  "leafy-green": $leafy-green,
+  "lectern": $lectern,
+  "lens-concave": $lens-concave,
+  "lens-convex": $lens-convex,
+  "library": $library,
+  "library-big": $library-big,
+  "life-buoy": $life-buoy,
+  "ligature": $ligature,
+  "lightbulb": $lightbulb,
+  "lightbulb-off": $lightbulb-off,
+  "lighthouse": $lighthouse,
+  "line-dot-right-horizontal": $line-dot-right-horizontal,
+  "line-squiggle": $line-squiggle,
+  "line-style": $line-style,
+  "link": $link,
+  "link-2": $link-2,
+  "link-2-off": $link-2-off,
+  "list": $list,
+  "list-check": $list-check,
+  "list-checks": $list-checks,
+  "list-chevrons-down-up": $list-chevrons-down-up,
+  "list-chevrons-up-down": $list-chevrons-up-down,
+  "list-clock": $list-clock,
+  "list-collapse": $list-collapse,
+  "list-end": $list-end,
+  "list-filter": $list-filter,
+  "list-filter-plus": $list-filter-plus,
+  "list-indent-decrease": $list-indent-decrease,
+  "list-indent-increase": $list-indent-increase,
+  "list-minus": $list-minus,
+  "list-music": $list-music,
+  "list-ordered": $list-ordered,
+  "list-plus": $list-plus,
+  "list-restart": $list-restart,
+  "list-sort-ascending": $list-sort-ascending,
+  "list-sort-descending": $list-sort-descending,
+  "list-start": $list-start,
+  "list-todo": $list-todo,
+  "list-tree": $list-tree,
+  "list-video": $list-video,
+  "list-x": $list-x,
+  "loader": $loader,
+  "loader-circle": $loader-circle,
+  "loader-pinwheel": $loader-pinwheel,
+  "locate": $locate,
+  "locate-fixed": $locate-fixed,
+  "locate-off": $locate-off,
+  "lock": $lock,
+  "lock-keyhole": $lock-keyhole,
+  "lock-keyhole-open": $lock-keyhole-open,
+  "lock-open": $lock-open,
+  "log-in": $log-in,
+  "log-out": $log-out,
+  "logs": $logs,
+  "lollipop": $lollipop,
+  "luggage": $luggage,
+  "magnet": $magnet,
+  "mail": $mail,
+  "mail-badge": $mail-badge,
+  "mail-check": $mail-check,
+  "mail-clock": $mail-clock,
+  "mail-minus": $mail-minus,
+  "mail-open": $mail-open,
+  "mail-pen": $mail-pen,
+  "mail-plus": $mail-plus,
+  "mail-question-mark": $mail-question-mark,
+  "mail-search": $mail-search,
+  "mail-warning": $mail-warning,
+  "mail-x": $mail-x,
+  "mailbox": $mailbox,
+  "mails": $mails,
+  "map-minus": $map-minus,
+  "map-pin": $map-pin,
+  "map-pin-check": $map-pin-check,
+  "map-pin-check-inside": $map-pin-check-inside,
+  "map-pin-house": $map-pin-house,
+  "map-pin-minus": $map-pin-minus,
+  "map-pin-minus-inside": $map-pin-minus-inside,
+  "map-pin-off": $map-pin-off,
+  "map-pin-pen": $map-pin-pen,
+  "map-pin-plus": $map-pin-plus,
+  "map-pin-plus-inside": $map-pin-plus-inside,
+  "map-pin-search": $map-pin-search,
+  "map-pin-x": $map-pin-x,
+  "map-pin-x-inside": $map-pin-x-inside,
+  "map-pinned": $map-pinned,
+  "map-plus": $map-plus,
+  "mars": $mars,
+  "mars-stroke": $mars-stroke,
+  "martini": $martini,
+  "maximize": $maximize,
+  "maximize-2": $maximize-2,
+  "medal": $medal,
+  "megaphone": $megaphone,
+  "megaphone-off": $megaphone-off,
+  "memory-stick": $memory-stick,
+  "menu": $menu,
+  "merge": $merge,
+  "message-circle": $message-circle,
+  "message-circle-check": $message-circle-check,
+  "message-circle-code": $message-circle-code,
+  "message-circle-dashed": $message-circle-dashed,
+  "message-circle-dashed-check": $message-circle-dashed-check,
+  "message-circle-heart": $message-circle-heart,
+  "message-circle-more": $message-circle-more,
+  "message-circle-off": $message-circle-off,
+  "message-circle-plus": $message-circle-plus,
+  "message-circle-question-mark": $message-circle-question-mark,
+  "message-circle-reply": $message-circle-reply,
+  "message-circle-warning": $message-circle-warning,
+  "message-circle-x": $message-circle-x,
+  "message-square": $message-square,
+  "message-square-check": $message-square-check,
+  "message-square-code": $message-square-code,
+  "message-square-dashed": $message-square-dashed,
+  "message-square-diff": $message-square-diff,
+  "message-square-dot": $message-square-dot,
+  "message-square-heart": $message-square-heart,
+  "message-square-lock": $message-square-lock,
+  "message-square-more": $message-square-more,
+  "message-square-off": $message-square-off,
+  "message-square-plus": $message-square-plus,
+  "message-square-quote": $message-square-quote,
+  "message-square-reply": $message-square-reply,
+  "message-square-share": $message-square-share,
+  "message-square-text": $message-square-text,
+  "message-square-warning": $message-square-warning,
+  "message-square-x": $message-square-x,
+  "messages-circle": $messages-circle,
+  "messages-square": $messages-square,
+  "metronome": $metronome,
+  "mic": $mic,
+  "mic-audio-lines": $mic-audio-lines,
+  "mic-off": $mic-off,
+  "mic-signal": $mic-signal,
+  "mic-vocal": $mic-vocal,
+  "microchip": $microchip,
+  "microscope": $microscope,
+  "microwave": $microwave,
+  "midi-port": $midi-port,
+  "milestone": $milestone,
+  "milk": $milk,
+  "milk-off": $milk-off,
+  "minimize": $minimize,
+  "minimize-2": $minimize-2,
+  "minus": $minus,
+  "mirror-rectangular": $mirror-rectangular,
+  "mirror-round": $mirror-round,
+  "monitor": $monitor,
+  "monitor-check": $monitor-check,
+  "monitor-cloud": $monitor-cloud,
+  "monitor-cog": $monitor-cog,
+  "monitor-dot": $monitor-dot,
+  "monitor-down": $monitor-down,
+  "monitor-off": $monitor-off,
+  "monitor-pause": $monitor-pause,
+  "monitor-pc": $monitor-pc,
+  "monitor-play": $monitor-play,
+  "monitor-smartphone": $monitor-smartphone,
+  "monitor-speaker": $monitor-speaker,
+  "monitor-stop": $monitor-stop,
+  "monitor-up": $monitor-up,
+  "monitor-x": $monitor-x,
+  "moon": $moon,
+  "moon-star": $moon-star,
+  "mop": $mop,
+  "mop-sparkles": $mop-sparkles,
+  "mosque": $mosque,
+  "motorbike": $motorbike,
+  "mountain": $mountain,
+  "mountain-snow": $mountain-snow,
+  "mouse": $mouse,
+  "mouse-left": $mouse-left,
+  "mouse-off": $mouse-off,
+  "mouse-pointer": $mouse-pointer,
+  "mouse-pointer-2": $mouse-pointer-2,
+  "mouse-pointer-2-off": $mouse-pointer-2-off,
+  "mouse-pointer-ban": $mouse-pointer-ban,
+  "mouse-pointer-click": $mouse-pointer-click,
+  "mouse-right": $mouse-right,
+  "mouth": $mouth,
+  "mouth-off": $mouth-off,
+  "move": $move,
+  "move-3d": $move-3d,
+  "move-diagonal": $move-diagonal,
+  "move-diagonal-2": $move-diagonal-2,
+  "move-down": $move-down,
+  "move-down-left": $move-down-left,
+  "move-down-right": $move-down-right,
+  "move-horizontal": $move-horizontal,
+  "move-left": $move-left,
+  "move-right": $move-right,
+  "move-up": $move-up,
+  "move-up-left": $move-up-left,
+  "move-up-right": $move-up-right,
+  "move-vertical": $move-vertical,
+  "music": $music,
+  "music-2": $music-2,
+  "music-3": $music-3,
+  "music-4": $music-4,
+  "navigation": $navigation,
+  "navigation-2": $navigation-2,
+  "navigation-2-off": $navigation-2-off,
+  "navigation-off": $navigation-off,
+  "nepali-rupee": $nepali-rupee,
+  "network": $network,
+  "newspaper": $newspaper,
+  "nfc": $nfc,
+  "non-binary": $non-binary,
+  "notebook": $notebook,
+  "notebook-dot": $notebook-dot,
+  "notebook-pen": $notebook-pen,
+  "notebook-tabs": $notebook-tabs,
+  "notebook-text": $notebook-text,
+  "notepad-text": $notepad-text,
+  "notepad-text-dashed": $notepad-text-dashed,
+  "nut": $nut,
+  "nut-off": $nut-off,
+  "octagon": $octagon,
+  "octagon-alert": $octagon-alert,
+  "octagon-minus": $octagon-minus,
+  "octagon-pause": $octagon-pause,
+  "octagon-x": $octagon-x,
+  "omega": $omega,
+  "option": $option,
+  "orbit": $orbit,
+  "origami": $origami,
+  "package": $package,
+  "package-2": $package-2,
+  "package-check": $package-check,
+  "package-minus": $package-minus,
+  "package-open": $package-open,
+  "package-plus": $package-plus,
+  "package-search": $package-search,
+  "package-x": $package-x,
+  "paint-bucket": $paint-bucket,
+  "paint-roller": $paint-roller,
+  "paintbrush": $paintbrush,
+  "paintbrush-vertical": $paintbrush-vertical,
+  "palette": $palette,
+  "panda": $panda,
+  "panel-bottom": $panel-bottom,
+  "panel-bottom-close": $panel-bottom-close,
+  "panel-bottom-dashed": $panel-bottom-dashed,
+  "panel-bottom-open": $panel-bottom-open,
+  "panel-left": $panel-left,
+  "panel-left-close": $panel-left-close,
+  "panel-left-dashed": $panel-left-dashed,
+  "panel-left-open": $panel-left-open,
+  "panel-left-right-dashed": $panel-left-right-dashed,
+  "panel-right": $panel-right,
+  "panel-right-close": $panel-right-close,
+  "panel-right-dashed": $panel-right-dashed,
+  "panel-right-open": $panel-right-open,
+  "panel-top": $panel-top,
+  "panel-top-bottom-dashed": $panel-top-bottom-dashed,
+  "panel-top-close": $panel-top-close,
+  "panel-top-dashed": $panel-top-dashed,
+  "panel-top-open": $panel-top-open,
+  "panels-left-bottom": $panels-left-bottom,
+  "panels-right-bottom": $panels-right-bottom,
+  "panels-top-left": $panels-top-left,
+  "paper-bag": $paper-bag,
+  "paperclip": $paperclip,
+  "parasol": $parasol,
+  "parentheses": $parentheses,
+  "park": $park,
+  "parking-meter": $parking-meter,
+  "party-popper": $party-popper,
+  "pause": $pause,
+  "paw-print": $paw-print,
+  "pc-case": $pc-case,
+  "pen": $pen,
+  "pen-line": $pen-line,
+  "pen-off": $pen-off,
+  "pen-tool": $pen-tool,
+  "pencil": $pencil,
+  "pencil-line": $pencil-line,
+  "pencil-off": $pencil-off,
+  "pencil-ruler": $pencil-ruler,
+  "pencil-sparkles": $pencil-sparkles,
+  "pentagon": $pentagon,
+  "percent": $percent,
+  "person-standing": $person-standing,
+  "phi": $phi,
+  "philippine-peso": $philippine-peso,
+  "phone": $phone,
+  "phone-call": $phone-call,
+  "phone-forwarded": $phone-forwarded,
+  "phone-incoming": $phone-incoming,
+  "phone-missed": $phone-missed,
+  "phone-off": $phone-off,
+  "phone-outgoing": $phone-outgoing,
+  "pi": $pi,
+  "piano": $piano,
+  "pickaxe": $pickaxe,
+  "picture-in-picture": $picture-in-picture,
+  "picture-in-picture-2": $picture-in-picture-2,
+  "piggy-bank": $piggy-bank,
+  "pilcrow": $pilcrow,
+  "pilcrow-left": $pilcrow-left,
+  "pilcrow-right": $pilcrow-right,
+  "pill": $pill,
+  "pill-bottle": $pill-bottle,
+  "pin": $pin,
+  "pin-off": $pin-off,
+  "pipette": $pipette,
+  "pizza": $pizza,
+  "plane": $plane,
+  "plane-landing": $plane-landing,
+  "plane-takeoff": $plane-takeoff,
+  "plant-pot": $plant-pot,
+  "play": $play,
+  "play-off": $play-off,
+  "playing-card": $playing-card,
+  "playing-cards": $playing-cards,
+  "playing-cards-fan": $playing-cards-fan,
+  "plug": $plug,
+  "plug-2": $plug-2,
+  "plug-zap": $plug-zap,
+  "plus": $plus,
+  "pocket-knife": $pocket-knife,
+  "podium": $podium,
+  "pointer": $pointer,
+  "pointer-off": $pointer-off,
+  "popcorn": $popcorn,
+  "popsicle": $popsicle,
+  "pound-sterling": $pound-sterling,
+  "power": $power,
+  "power-off": $power-off,
+  "presentation": $presentation,
+  "printer": $printer,
+  "printer-check": $printer-check,
+  "printer-x": $printer-x,
+  "projector": $projector,
+  "proportions": $proportions,
+  "puzzle": $puzzle,
+  "pyramid": $pyramid,
+  "qr-code": $qr-code,
+  "quote": $quote,
+  "rabbit": $rabbit,
+  "radar": $radar,
+  "radiation": $radiation,
+  "radical": $radical,
+  "radio": $radio,
+  "radio-off": $radio-off,
+  "radio-receiver": $radio-receiver,
+  "radio-tower": $radio-tower,
+  "radius": $radius,
+  "rainbow": $rainbow,
+  "rat": $rat,
+  "ratio": $ratio,
+  "receipt": $receipt,
+  "receipt-cent": $receipt-cent,
+  "receipt-euro": $receipt-euro,
+  "receipt-indian-rupee": $receipt-indian-rupee,
+  "receipt-japanese-yen": $receipt-japanese-yen,
+  "receipt-pound-sterling": $receipt-pound-sterling,
+  "receipt-russian-ruble": $receipt-russian-ruble,
+  "receipt-swiss-franc": $receipt-swiss-franc,
+  "receipt-text": $receipt-text,
+  "receipt-turkish-lira": $receipt-turkish-lira,
+  "rectangle-circle": $rectangle-circle,
+  "rectangle-ellipsis": $rectangle-ellipsis,
+  "rectangle-goggles": $rectangle-goggles,
+  "rectangle-horizontal": $rectangle-horizontal,
+  "rectangle-vertical": $rectangle-vertical,
+  "recycle": $recycle,
+  "redo": $redo,
+  "redo-2": $redo-2,
+  "redo-dot": $redo-dot,
+  "refresh-ccw": $refresh-ccw,
+  "refresh-ccw-dot": $refresh-ccw-dot,
+  "refresh-cw": $refresh-cw,
+  "refresh-cw-off": $refresh-cw-off,
+  "refrigerator": $refrigerator,
+  "regex": $regex,
+  "remove-formatting": $remove-formatting,
+  "repeat": $repeat,
+  "repeat-1": $repeat-1,
+  "repeat-2": $repeat-2,
+  "repeat-off": $repeat-off,
+  "replace": $replace,
+  "replace-all": $replace-all,
+  "reply": $reply,
+  "reply-all": $reply-all,
+  "rewind": $rewind,
+  "ribbon": $ribbon,
+  "road": $road,
+  "robot-arm": $robot-arm,
+  "robot-vacuum": $robot-vacuum,
+  "rocket": $rocket,
+  "rocking-chair": $rocking-chair,
+  "roller-coaster": $roller-coaster,
+  "rose": $rose,
+  "rotate-3d": $rotate-3d,
+  "rotate-ccw": $rotate-ccw,
+  "rotate-ccw-clock": $rotate-ccw-clock,
+  "rotate-ccw-key": $rotate-ccw-key,
+  "rotate-ccw-square": $rotate-ccw-square,
+  "rotate-cw": $rotate-cw,
+  "rotate-cw-clock": $rotate-cw-clock,
+  "rotate-cw-fading-clock": $rotate-cw-fading-clock,
+  "rotate-cw-square": $rotate-cw-square,
+  "route": $route,
+  "route-off": $route-off,
+  "router": $router,
+  "rows-2": $rows-2,
+  "rows-3": $rows-3,
+  "rows-4": $rows-4,
+  "rss": $rss,
+  "ruler": $ruler,
+  "ruler-dimension-line": $ruler-dimension-line,
+  "russian-ruble": $russian-ruble,
+  "sailboat": $sailboat,
+  "salad": $salad,
+  "sandwich": $sandwich,
+  "satellite": $satellite,
+  "satellite-dish": $satellite-dish,
+  "saudi-riyal": $saudi-riyal,
+  "save": $save,
+  "save-all": $save-all,
+  "save-check": $save-check,
+  "save-off": $save-off,
+  "save-pen": $save-pen,
+  "save-plus": $save-plus,
+  "scale": $scale,
+  "scale-3d": $scale-3d,
+  "scaling": $scaling,
+  "scan": $scan,
+  "scan-barcode": $scan-barcode,
+  "scan-box": $scan-box,
+  "scan-eye": $scan-eye,
+  "scan-face": $scan-face,
+  "scan-heart": $scan-heart,
+  "scan-line": $scan-line,
+  "scan-qr-code": $scan-qr-code,
+  "scan-search": $scan-search,
+  "scan-square": $scan-square,
+  "scan-text": $scan-text,
+  "school": $school,
+  "scissors": $scissors,
+  "scissors-line-dashed": $scissors-line-dashed,
+  "scooter": $scooter,
+  "screen-share": $screen-share,
+  "screen-share-off": $screen-share-off,
+  "scroll": $scroll,
+  "scroll-text": $scroll-text,
+  "search": $search,
+  "search-alert": $search-alert,
+  "search-check": $search-check,
+  "search-code": $search-code,
+  "search-slash": $search-slash,
+  "search-x": $search-x,
+  "section": $section,
+  "send": $send,
+  "send-horizontal": $send-horizontal,
+  "send-to-back": $send-to-back,
+  "separator-horizontal": $separator-horizontal,
+  "separator-vertical": $separator-vertical,
+  "server": $server,
+  "server-cog": $server-cog,
+  "server-crash": $server-crash,
+  "server-off": $server-off,
+  "server-plus": $server-plus,
+  "settings": $settings,
+  "settings-2": $settings-2,
+  "shapes": $shapes,
+  "share": $share,
+  "share-2": $share-2,
+  "sheet": $sheet,
+  "shell": $shell,
+  "shelving-unit": $shelving-unit,
+  "shield": $shield,
+  "shield-alert": $shield-alert,
+  "shield-ban": $shield-ban,
+  "shield-check": $shield-check,
+  "shield-cog": $shield-cog,
+  "shield-cog-corner": $shield-cog-corner,
+  "shield-ellipsis": $shield-ellipsis,
+  "shield-half": $shield-half,
+  "shield-keyhole": $shield-keyhole,
+  "shield-lock": $shield-lock,
+  "shield-minus": $shield-minus,
+  "shield-off": $shield-off,
+  "shield-plus": $shield-plus,
+  "shield-question-mark": $shield-question-mark,
+  "shield-user": $shield-user,
+  "shield-x": $shield-x,
+  "ship": $ship,
+  "ship-cargo": $ship-cargo,
+  "ship-wheel": $ship-wheel,
+  "shirt": $shirt,
+  "shopping-bag": $shopping-bag,
+  "shopping-basket": $shopping-basket,
+  "shopping-cart": $shopping-cart,
+  "shopping-cart-minus": $shopping-cart-minus,
+  "shopping-cart-plus": $shopping-cart-plus,
+  "shovel": $shovel,
+  "shower-head": $shower-head,
+  "shredder": $shredder,
+  "shrimp": $shrimp,
+  "shrimp-off": $shrimp-off,
+  "shrink": $shrink,
+  "shrub": $shrub,
+  "shuffle": $shuffle,
+  "sigma": $sigma,
+  "signal": $signal,
+  "signal-high": $signal-high,
+  "signal-low": $signal-low,
+  "signal-medium": $signal-medium,
+  "signal-zero": $signal-zero,
+  "signature": $signature,
+  "signpost": $signpost,
+  "signpost-big": $signpost-big,
+  "siren": $siren,
+  "skip-back": $skip-back,
+  "skip-forward": $skip-forward,
+  "skull": $skull,
+  "slash": $slash,
+  "sliders-horizontal": $sliders-horizontal,
+  "sliders-vertical": $sliders-vertical,
+  "smartphone": $smartphone,
+  "smartphone-charging": $smartphone-charging,
+  "smartphone-nfc": $smartphone-nfc,
+  "snail": $snail,
+  "snowflake": $snowflake,
+  "soap-dispenser-droplet": $soap-dispenser-droplet,
+  "sofa": $sofa,
+  "solar-panel": $solar-panel,
+  "soup": $soup,
+  "space": $space,
+  "spade": $spade,
+  "sparkle": $sparkle,
+  "sparkles": $sparkles,
+  "speaker": $speaker,
+  "speech": $speech,
+  "spell-check": $spell-check,
+  "spell-check-2": $spell-check-2,
+  "spline": $spline,
+  "spline-pointer": $spline-pointer,
+  "split": $split,
+  "spool": $spool,
+  "sport-shoe": $sport-shoe,
+  "spotlight": $spotlight,
+  "spray-can": $spray-can,
+  "sprout": $sprout,
+  "square": $square,
+  "square-activity": $square-activity,
+  "square-arrow-down": $square-arrow-down,
+  "square-arrow-down-left": $square-arrow-down-left,
+  "square-arrow-down-right": $square-arrow-down-right,
+  "square-arrow-left": $square-arrow-left,
+  "square-arrow-out-down-left": $square-arrow-out-down-left,
+  "square-arrow-out-down-right": $square-arrow-out-down-right,
+  "square-arrow-out-up-left": $square-arrow-out-up-left,
+  "square-arrow-out-up-right": $square-arrow-out-up-right,
+  "square-arrow-right": $square-arrow-right,
+  "square-arrow-right-enter": $square-arrow-right-enter,
+  "square-arrow-right-exit": $square-arrow-right-exit,
+  "square-arrow-up": $square-arrow-up,
+  "square-arrow-up-left": $square-arrow-up-left,
+  "square-arrow-up-right": $square-arrow-up-right,
+  "square-asterisk": $square-asterisk,
+  "square-bookmark": $square-bookmark,
+  "square-bottom-dashed-scissors": $square-bottom-dashed-scissors,
+  "square-centerline-dashed-horizontal": $square-centerline-dashed-horizontal,
+  "square-centerline-dashed-vertical": $square-centerline-dashed-vertical,
+  "square-chart-gantt": $square-chart-gantt,
+  "square-check": $square-check,
+  "square-check-big": $square-check-big,
+  "square-chevron-down": $square-chevron-down,
+  "square-chevron-left": $square-chevron-left,
+  "square-chevron-right": $square-chevron-right,
+  "square-chevron-up": $square-chevron-up,
+  "square-code": $square-code,
+  "square-dashed": $square-dashed,
+  "square-dashed-bottom": $square-dashed-bottom,
+  "square-dashed-bottom-code": $square-dashed-bottom-code,
+  "square-dashed-kanban": $square-dashed-kanban,
+  "square-dashed-mouse-pointer": $square-dashed-mouse-pointer,
+  "square-dashed-plus": $square-dashed-plus,
+  "square-dashed-text": $square-dashed-text,
+  "square-dashed-top-solid": $square-dashed-top-solid,
+  "square-dashed-x": $square-dashed-x,
+  "square-dashed-x-corner": $square-dashed-x-corner,
+  "square-dimensions": $square-dimensions,
+  "square-divide": $square-divide,
+  "square-dot": $square-dot,
+  "square-equal": $square-equal,
+  "square-exclamation-point": $square-exclamation-point,
+  "square-function": $square-function,
+  "square-kanban": $square-kanban,
+  "square-library": $square-library,
+  "square-m": $square-m,
+  "square-menu": $square-menu,
+  "square-minus": $square-minus,
+  "square-mouse-pointer": $square-mouse-pointer,
+  "square-off": $square-off,
+  "square-parking": $square-parking,
+  "square-parking-off": $square-parking-off,
+  "square-pause": $square-pause,
+  "square-pen": $square-pen,
+  "square-percent": $square-percent,
+  "square-pi": $square-pi,
+  "square-pilcrow": $square-pilcrow,
+  "square-play": $square-play,
+  "square-plus": $square-plus,
+  "square-power": $square-power,
+  "square-radical": $square-radical,
+  "square-round-corner": $square-round-corner,
+  "square-scissors": $square-scissors,
+  "square-sigma": $square-sigma,
+  "square-slash": $square-slash,
+  "square-split-horizontal": $square-split-horizontal,
+  "square-split-vertical": $square-split-vertical,
+  "square-square": $square-square,
+  "square-stack": $square-stack,
+  "square-star": $square-star,
+  "square-stop": $square-stop,
+  "square-terminal": $square-terminal,
+  "square-text": $square-text,
+  "square-user": $square-user,
+  "square-user-round": $square-user-round,
+  "square-x": $square-x,
+  "squares-exclude": $squares-exclude,
+  "squares-intersect": $squares-intersect,
+  "squares-subtract": $squares-subtract,
+  "squares-unite": $squares-unite,
+  "squircle": $squircle,
+  "squircle-dashed": $squircle-dashed,
+  "squirrel": $squirrel,
+  "stamp": $stamp,
+  "star": $star,
+  "star-check": $star-check,
+  "star-half": $star-half,
+  "star-minus": $star-minus,
+  "star-off": $star-off,
+  "star-plus": $star-plus,
+  "star-x": $star-x,
+  "step-back": $step-back,
+  "step-forward": $step-forward,
+  "stethoscope": $stethoscope,
+  "sticker": $sticker,
+  "sticky-note": $sticky-note,
+  "sticky-note-check": $sticky-note-check,
+  "sticky-note-minus": $sticky-note-minus,
+  "sticky-note-off": $sticky-note-off,
+  "sticky-note-plus": $sticky-note-plus,
+  "sticky-note-x": $sticky-note-x,
+  "sticky-notes": $sticky-notes,
+  "stone": $stone,
+  "store": $store,
+  "stretch-horizontal": $stretch-horizontal,
+  "stretch-vertical": $stretch-vertical,
+  "strikethrough": $strikethrough,
+  "subscript": $subscript,
+  "summary": $summary,
+  "sun": $sun,
+  "sun-dim": $sun-dim,
+  "sun-medium": $sun-medium,
+  "sun-moon": $sun-moon,
+  "sun-snow": $sun-snow,
+  "sunrise": $sunrise,
+  "sunset": $sunset,
+  "superscript": $superscript,
+  "swatch-book": $swatch-book,
+  "swiss-franc": $swiss-franc,
+  "switch-camera": $switch-camera,
+  "sword": $sword,
+  "swords": $swords,
+  "syringe": $syringe,
+  "table": $table,
+  "table-2": $table-2,
+  "table-cells-merge": $table-cells-merge,
+  "table-cells-split": $table-cells-split,
+  "table-columns-split": $table-columns-split,
+  "table-of-contents": $table-of-contents,
+  "table-properties": $table-properties,
+  "table-rows-split": $table-rows-split,
+  "tablet": $tablet,
+  "tablet-smartphone": $tablet-smartphone,
+  "tablets": $tablets,
+  "tag": $tag,
+  "tag-plus": $tag-plus,
+  "tag-x": $tag-x,
+  "tags": $tags,
+  "tally-1": $tally-1,
+  "tally-2": $tally-2,
+  "tally-3": $tally-3,
+  "tally-4": $tally-4,
+  "tally-5": $tally-5,
+  "tangent": $tangent,
+  "target": $target,
+  "telescope": $telescope,
+  "tent": $tent,
+  "tent-tree": $tent-tree,
+  "terminal": $terminal,
+  "test-tube": $test-tube,
+  "test-tube-diagonal": $test-tube-diagonal,
+  "test-tubes": $test-tubes,
+  "text-align-center": $text-align-center,
+  "text-align-end": $text-align-end,
+  "text-align-justify": $text-align-justify,
+  "text-align-start": $text-align-start,
+  "text-cursor": $text-cursor,
+  "text-cursor-input": $text-cursor-input,
+  "text-initial": $text-initial,
+  "text-quote": $text-quote,
+  "text-search": $text-search,
+  "text-wrap": $text-wrap,
+  "theater": $theater,
+  "thermometer": $thermometer,
+  "thermometer-snowflake": $thermometer-snowflake,
+  "thermometer-sun": $thermometer-sun,
+  "thumbs-down": $thumbs-down,
+  "thumbs-up": $thumbs-up,
+  "tic-tac-toe": $tic-tac-toe,
+  "ticket": $ticket,
+  "ticket-check": $ticket-check,
+  "ticket-minus": $ticket-minus,
+  "ticket-percent": $ticket-percent,
+  "ticket-plus": $ticket-plus,
+  "ticket-slash": $ticket-slash,
+  "ticket-x": $ticket-x,
+  "tickets": $tickets,
+  "tickets-plane": $tickets-plane,
+  "timeline": $timeline,
+  "timer": $timer,
+  "timer-off": $timer-off,
+  "timer-reset": $timer-reset,
+  "toggle-left": $toggle-left,
+  "toggle-right": $toggle-right,
+  "toilet": $toilet,
+  "tool-case": $tool-case,
+  "toolbox": $toolbox,
+  "toothbrush": $toothbrush,
+  "toothbrush-sparkles": $toothbrush-sparkles,
+  "tornado": $tornado,
+  "torus": $torus,
+  "touchpad": $touchpad,
+  "touchpad-off": $touchpad-off,
+  "towel-rack": $towel-rack,
+  "tower-control": $tower-control,
+  "toy-brick": $toy-brick,
+  "tractor": $tractor,
+  "traffic-cone": $traffic-cone,
+  "trailer": $trailer,
+  "train-front": $train-front,
+  "train-front-tunnel": $train-front-tunnel,
+  "train-track": $train-track,
+  "tram-front": $tram-front,
+  "transgender": $transgender,
+  "trash": $trash,
+  "trash-off": $trash-off,
+  "tree-deciduous": $tree-deciduous,
+  "tree-palm": $tree-palm,
+  "tree-pine": $tree-pine,
+  "trees": $trees,
+  "trending-down": $trending-down,
+  "trending-up": $trending-up,
+  "trending-up-down": $trending-up-down,
+  "triangle": $triangle,
+  "triangle-alert": $triangle-alert,
+  "triangle-dashed": $triangle-dashed,
+  "triangle-right": $triangle-right,
+  "triangles-centerline-dashed-horizontal": $triangles-centerline-dashed-horizontal,
+  "triangles-centerline-dashed-vertical": $triangles-centerline-dashed-vertical,
+  "trophy": $trophy,
+  "truck": $truck,
+  "truck-electric": $truck-electric,
+  "tube-lotion": $tube-lotion,
+  "turkish-lira": $turkish-lira,
+  "turntable": $turntable,
+  "turtle": $turtle,
+  "tv": $tv,
+  "tv-minimal": $tv-minimal,
+  "tv-minimal-play": $tv-minimal-play,
+  "type": $type,
+  "type-outline": $type-outline,
+  "umbrella": $umbrella,
+  "umbrella-off": $umbrella-off,
+  "underline": $underline,
+  "undo": $undo,
+  "undo-2": $undo-2,
+  "undo-dot": $undo-dot,
+  "unfold-horizontal": $unfold-horizontal,
+  "unfold-vertical": $unfold-vertical,
+  "ungroup": $ungroup,
+  "university": $university,
+  "unlink": $unlink,
+  "unlink-2": $unlink-2,
+  "unplug": $unplug,
+  "upload": $upload,
+  "usb": $usb,
+  "usb-c-port": $usb-c-port,
+  "user": $user,
+  "user-check": $user-check,
+  "user-cog": $user-cog,
+  "user-group": $user-group,
+  "user-key": $user-key,
+  "user-lock": $user-lock,
+  "user-minus": $user-minus,
+  "user-pen": $user-pen,
+  "user-plus": $user-plus,
+  "user-round": $user-round,
+  "user-round-arrow-left": $user-round-arrow-left,
+  "user-round-check": $user-round-check,
+  "user-round-cog": $user-round-cog,
+  "user-round-group": $user-round-group,
+  "user-round-key": $user-round-key,
+  "user-round-minus": $user-round-minus,
+  "user-round-pen": $user-round-pen,
+  "user-round-plus": $user-round-plus,
+  "user-round-search": $user-round-search,
+  "user-round-x": $user-round-x,
+  "user-search": $user-search,
+  "user-shield": $user-shield,
+  "user-star": $user-star,
+  "user-x": $user-x,
+  "users": $users,
+  "users-round": $users-round,
+  "utensils": $utensils,
+  "utensils-crossed": $utensils-crossed,
+  "utility-pole": $utility-pole,
+  "van": $van,
+  "variable": $variable,
+  "vault": $vault,
+  "vector-polygon": $vector-polygon,
+  "vector-square": $vector-square,
+  "vegan": $vegan,
+  "venetian-mask": $venetian-mask,
+  "venus": $venus,
+  "venus-and-mars": $venus-and-mars,
+  "vibrate": $vibrate,
+  "vibrate-off": $vibrate-off,
+  "video": $video,
+  "video-off": $video-off,
+  "videotape": $videotape,
+  "view": $view,
+  "virus": $virus,
+  "virus-off": $virus-off,
+  "voicemail": $voicemail,
+  "volleyball": $volleyball,
+  "volume": $volume,
+  "volume-1": $volume-1,
+  "volume-2": $volume-2,
+  "volume-off": $volume-off,
+  "volume-x": $volume-x,
+  "vote": $vote,
+  "wallet": $wallet,
+  "wallet-cards": $wallet-cards,
+  "wallet-minimal": $wallet-minimal,
+  "wallpaper": $wallpaper,
+  "wand": $wand,
+  "wand-sparkles": $wand-sparkles,
+  "warehouse": $warehouse,
+  "washing-machine": $washing-machine,
+  "watch": $watch,
+  "waves-arrow-down": $waves-arrow-down,
+  "waves-arrow-up": $waves-arrow-up,
+  "waves-horizontal": $waves-horizontal,
+  "waves-ladder": $waves-ladder,
+  "waves-vertical": $waves-vertical,
+  "waypoints": $waypoints,
+  "webcam": $webcam,
+  "webcam-off": $webcam-off,
+  "webhook": $webhook,
+  "webhook-off": $webhook-off,
+  "weight": $weight,
+  "weight-tilde": $weight-tilde,
+  "wheat": $wheat,
+  "wheat-off": $wheat-off,
+  "whistle": $whistle,
+  "whole-word": $whole-word,
+  "wifi": $wifi,
+  "wifi-cog": $wifi-cog,
+  "wifi-high": $wifi-high,
+  "wifi-low": $wifi-low,
+  "wifi-off": $wifi-off,
+  "wifi-pen": $wifi-pen,
+  "wifi-sync": $wifi-sync,
+  "wifi-zero": $wifi-zero,
+  "wind": $wind,
+  "wind-arrow-down": $wind-arrow-down,
+  "wine": $wine,
+  "wine-off": $wine-off,
+  "workflow": $workflow,
+  "worm": $worm,
+  "wrench": $wrench,
+  "wrench-off": $wrench-off,
+  "x": $x,
+  "x-line-top": $x-line-top,
+  "zap": $zap,
+  "zap-off": $zap-off,
+  "zodiac-aquarius": $zodiac-aquarius,
+  "zodiac-aries": $zodiac-aries,
+  "zodiac-cancer": $zodiac-cancer,
+  "zodiac-capricorn": $zodiac-capricorn,
+  "zodiac-gemini": $zodiac-gemini,
+  "zodiac-leo": $zodiac-leo,
+  "zodiac-libra": $zodiac-libra,
+  "zodiac-ophiuchus": $zodiac-ophiuchus,
+  "zodiac-pisces": $zodiac-pisces,
+  "zodiac-sagittarius": $zodiac-sagittarius,
+  "zodiac-scorpio": $zodiac-scorpio,
+  "zodiac-taurus": $zodiac-taurus,
+  "zodiac-virgo": $zodiac-virgo,
+  "zoom-in": $zoom-in,
+  "zoom-out": $zoom-out,
+);
