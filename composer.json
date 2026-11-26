@@ -1,7 +1,7 @@
 {
 	"name": "portrino/iconpack-lucide",
 	"type": "typo3-cms-extension",
-	"description": "",
+	"description": "Iconpack: Lucide Icons - This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the \"Lucide Icons\" in TYPO3.",
 	"keywords": [
 		"TYPO3",
 		"extension",
